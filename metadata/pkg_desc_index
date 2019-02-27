@@ -4,5 +4,6 @@ dev-tcltk/tdbc 1.0.6: Tcl Database Connectivity Core
 dev-tcltk/tdbcmysql 1.0.6: Tcl Database Connectivity MySQL Driver
 dev-tcltk/tdbcsqlite3 1.0.6: Tcl Database Connectivity SQLite3 Driver
 dev-tcltk/tdom 0.9.1: A XML/DOM/XPath/XSLT Implementation for Tcl
+net-firewall/ipset 6.38: IPset tool for iptables, successor to ippool
 net-vpn/openvpn 2.4.5: Robust and highly flexible tunneling application compatible with many OSes
 www-apps/mediawiki 1.28.0 1.30.0: The MediaWiki wiki web application (as used on wikipedia.org)
