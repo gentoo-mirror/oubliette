@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile configure install prepare setup
+DEPEND=diet? ( dev-libs/dietlibc )
+DESCRIPTION=Forwards DHCP messages between subnets with different sublayer broadcast domains
+EAPI=7
+HOMEPAGE=https://www.nongnu.org/dhcp-fwd/
+IUSE=diet logging
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=diet? ( dev-libs/dietlibc )
+SLOT=0
+SRC_URI=https://savannah.nongnu.org/download/dhcp-fwd/dhcp-forwarder-0.11.tar.xz
+_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8
+_md5_=f4ea8424ed0716643454bbd74be44118
