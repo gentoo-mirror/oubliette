@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install postinst
+DEPEND=virtual/pam
+DESCRIPTION=PAM RADIUS authentication module
+EAPI=7
+HOMEPAGE=http://www.freeradius.org/pam_radius_auth/
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2+
+RDEPEND=virtual/pam
+SLOT=0
+SRC_URI=ftp://ftp.freeradius.org/pub/radius/pam_radius-1.4.0.tar.gz
+_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	flag-o-matic	a09389deba2c0a7108b581e02c7cecbf	multilib	b2f01ad412baf81650c23fcf0975fa33	pam	69b1cf8e80a877ad42a03042aaa66a5e	toolchain-funcs	b45201c4e6c096b98e250336954e64b9
+_md5_=1fa439f3273c2a783c5f044991a99cc2
