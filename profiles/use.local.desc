@@ -2,9 +2,29 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+net-analyzer/smokeping:dig - Install net-dns/bind-tools for dig functionality
+net-analyzer/smokeping:echoping - Install net-analyzer/echoping for echoping functionality
+net-misc/dhcp-fwd:diet - compiles with diet libc
+net-misc/dhcp-fwd:logging - compiles with logging support
+net-proxy/haproxy:51degrees - Device Detection using 51 Degrees
+net-proxy/haproxy:device-atlas - Use dev-libs/device-atlas-api-c library
+net-proxy/haproxy:net_ns - Enable network namespace support (CONFIG_NET_NS)
+net-proxy/haproxy:pcre-jit - Use JIT support for PCRE
+net-proxy/haproxy:pcre2 - Enable PCRE2 RegEx support
+net-proxy/haproxy:pcre2-jit - Use JIT support for PCRE2
+net-proxy/haproxy:slz - Use dev-libs/libslz compression library
+net-proxy/haproxy:tools - Install additional tools (halog, iprange)
+net-proxy/haproxy:wurfl - Device Detection using WURFL
 net-vpn/openvpn:down-root - Enable the down-root plugin
 net-vpn/openvpn:iproute2 - Enabled iproute2 support instead of net-tools
 net-vpn/openvpn:lz4 - Enable LZ4 support
 net-vpn/openvpn:mbedtls - Use mbed TLS instead of OpenSSL
 net-vpn/openvpn:pkcs11 - Enable PKCS#11 smartcard support
 net-vpn/openvpn:plugins - Enable the OpenVPN plugin system
+sys-cluster/keepalived:bfd - compile with support for Bidirectional Forwarding Detection (BFD).
+sys-cluster/keepalived:json - compile with signal to dump configuration and stats as JSON.
+sys-cluster/keepalived:regex - compile with support for regex in health checks
+www-misc/zoneminder:curl - Enable using net-misc/curl for streaming from cameras
+www-misc/zoneminder:gcrypt - ...
+www-misc/zoneminder:vlc - Enable using media-libs/vlc for streaming from cameras
+x11-misc/alock:xbacklight - Build with x11-apps/xbacklight.
