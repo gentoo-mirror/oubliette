@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RDEPEND=diet? ( dev-libs/dietlibc )
 SLOT=0
 SRC_URI=https://savannah.nongnu.org/download/dhcp-fwd/dhcp-forwarder-0.11.tar.xz
-_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5
 _md5_=f4ea8424ed0716643454bbd74be44118
