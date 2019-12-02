@@ -18,5 +18,5 @@ net-vpn/openvpn 2.4.5 2.4.6: Robust and highly flexible tunneling application co
 sys-auth/pam_radius 1.4.0 9999: PAM RADIUS authentication module
 sys-cluster/keepalived 2.0.15: A strong & robust keepalive facility to the Linux Virtual Server project
 www-apps/mediawiki 1.28.0 1.30.0 1.31.0 1.31.1: The MediaWiki wiki web application (as used on wikipedia.org)
-www-misc/zoneminder 1.30.4 1.32.3: Capture, analyse, record and monitor any cameras attached to your system
+www-misc/zoneminder 1.30.4 1.32.3 9999: Capture, analyse, record and monitor any cameras attached to your system
 x11-misc/alock 2.3 2.4.0: Simple screen lock application for X server
