@@ -5,10 +5,10 @@ EAPI=5
 
 inherit eutils virtualx
 MY_PN="TDBC"
-#TDBC - 1.0.6 2018-01-05 commit version
-MY_PV="2386d26cfb"
-#TEA tclconfig - 3.12 2016-03-11 commit version
-TEA_V="0a530cebd7"
+#TDBC - 1.1.1 2019-11-20 commit version
+MY_PV="01cac2bbfb"
+#TEA tclconfig - 2019-11-14 commit version
+TEA_V="11d74eabd7"
 MY_P=${MY_PN}-${MY_PV}
 
 DESCRIPTION="Tcl Database Connectivity Core"

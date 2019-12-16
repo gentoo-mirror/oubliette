@@ -5,15 +5,15 @@ EAPI=6
 
 inherit eutils
 
-MY_P="tcl${PN}-${PV}"
+MY_P="tcl${P}"
 
 DESCRIPTION="TLS OpenSSL extension to Tcl"
 HOMEPAGE="http://tls.sourceforge.net/"
-SRC_URI="https://core.tcl.tk/tcltls/uv/tcl${PN}-${PV}.tar.gz"
+SRC_URI="https://core.tcl.tk/tcltls/uv/${MY_P}.tar.gz"
 
 LICENSE="BSD"
 SLOT="0"
-KEYWORDS="~alpha ~amd64 ~hppa ~ppc ~ppc64 ~sparc ~x86 ~amd64-linux ~x86-linux ~ppc-macos ~x86-macos"
+KEYWORDS="~alpha amd64 hppa ppc ppc64 sparc x86 ~amd64-linux ~x86-linux ~ppc-macos ~x86-macos"
 IUSE="tk"
 
 DEPEND="

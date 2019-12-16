@@ -6,9 +6,9 @@
 	</longdescription>
 	<maintainer type="project">
 		<email>tcltk@gentoo.org</email>
-		<name>Gentoo Tcltk Project</name>
+		<name>TCL/TK Herd.</name>
 	</maintainer>
 	<upstream>
-		<remote-id type="sourceforge">expect</remote-id>
+		<remote-id type="sourceforge">tcl</remote-id>
 	</upstream>
 </pkgmetadata>
