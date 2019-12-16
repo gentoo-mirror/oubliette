@@ -22,13 +22,11 @@ RDEPEND="
 DEPEND="${RDEPEND}"
 
 DOCS=(
-	ChangeLog DESCRIPTION.txt README-1.19.txt README.developer
+	ChangeLog DESCRIPTION.txt README.md
 	devdoc/critcl-tcllib.txt devdoc/dirlayout_install.txt
 	devdoc/indexing.txt devdoc/installation.txt
 )
 HTML_DOCS=( devdoc/devguide.html devdoc/releaseguide.html )
-
-PATCHES=( "${FILESDIR}"/${P}-test.patch )
 
 src_prepare() {
 	default
