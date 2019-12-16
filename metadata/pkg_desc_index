@@ -1,13 +1,11 @@
 app-misc/when 1.1.38: Minimalistic personal calendar program
+dev-lang/tcl 8.6.10: Tool Command Language
 dev-python/netmiko 2.1.1 2.3.0: Multi-vendor library to simplify Paramiko SSH connections to network devices
 dev-python/textfsm 0.4.0 0.4.1: Python module for parsing semi-structured text into python tables.
-dev-tcltk/expect 5.45.4: tool for automating interactive applications
-dev-tcltk/tcllib 1.19: Tcl Standard Library
-dev-tcltk/tdbc 1.0.6: Tcl Database Connectivity Core
-dev-tcltk/tdbcmysql 1.0.6: Tcl Database Connectivity MySQL Driver
-dev-tcltk/tdbcsqlite3 1.0.6: Tcl Database Connectivity SQLite3 Driver
-dev-tcltk/tdom 0.9.1: A XML/DOM/XPath/XSLT Implementation for Tcl
-dev-tcltk/tls 1.7.16: TLS OpenSSL extension to Tcl
+dev-tcltk/tdbc 1.0.6 1.1.1: Tcl Database Connectivity Core
+dev-tcltk/tdbcmysql 1.0.6 1.1.1: Tcl Database Connectivity MySQL Driver
+dev-tcltk/tdbcsqlite3 1.0.6 1.1.1: Tcl Database Connectivity SQLite3 Driver
+dev-tcltk/tls 1.7.16 1.7.20: TLS OpenSSL extension to Tcl
 net-analyzer/fping 4.2: A utility to ping multiple hosts at once
 net-analyzer/smokeping 2.7.3-r1: A powerful latency measurement tool
 net-firewall/ipset 6.38 7.1: IPset tool for iptables, successor to ippool

@@ -1,14 +1,14 @@
 DEFINED_PHASES=configure unpack
-DEPEND==dev-tcltk/tdbc-1.0.6 >=dev-lang/tcl-8.6 dev-db/sqlite test? ( !prefix? ( x11-base/xorg-server[xvfb] ) x11-apps/xhost )
+DEPEND=~dev-tcltk/tdbc-1.0.6 >=dev-lang/tcl-8.6 dev-db/sqlite test? ( !prefix? ( x11-base/xorg-server[xvfb] ) x11-apps/xhost )
 DESCRIPTION=Tcl Database Connectivity SQLite3 Driver
 EAPI=5
 HOMEPAGE=https://core.tcl.tk/tdbcsqlite3
 IUSE=test
-KEYWORDS=~alpha amd64 ~hppa ~ia64 ~mips ~ppc ~x86 ~amd64-fbsd ~x86-fbsd ~amd64-linux ~x86-linux ~x86-macos
+KEYWORDS=amd64 ~hppa ~ia64 ~mips ~ppc ~x86 ~amd64-linux ~x86-linux ~x86-macos
 LICENSE=tcltk
-RDEPEND==dev-tcltk/tdbc-1.0.6 >=dev-lang/tcl-8.6 dev-db/sqlite
+RDEPEND=~dev-tcltk/tdbc-1.0.6 >=dev-lang/tcl-8.6 dev-db/sqlite
 RESTRICT=!test? ( test )
 SLOT=0
 SRC_URI=https://core.tcl.tk/tdbcsqlite3/tarball/e095b00bdd/tdbc__sqlite3-e095b00bdd.tar.gz https://core.tcl.tk/tclconfig/tarball/0a530cebd7/TEA+%28tclconfig%29+Source+Code-0a530cebd7.tar.gz
 _eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	686eaab303305a908fd57b2fd7617800	eutils	fcb2aa98e1948b835b5ae66ca52868c5	ltprune	2729691420b6deeda2a90b1f1183fb55	multilib	1d91b03d42ab6308b5f4f6b598ed110e	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf	virtualx	e49dbce7ac14426e1155497476915307
-_md5_=826a741fccda005ed9d9d191b1498ce8
+_md5_=b245304654d24405deb9b3389e3d4841
