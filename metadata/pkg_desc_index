@@ -9,6 +9,7 @@ dev-tcltk/tdbcsqlite3 1.0.6 1.1.1: Tcl Database Connectivity SQLite3 Driver
 dev-tcltk/tls 1.7.16 1.7.20: TLS OpenSSL extension to Tcl
 net-analyzer/smokeping 2.7.3-r1: A powerful latency measurement tool
 net-firewall/ipset 6.38 7.1: IPset tool for iptables, successor to ippool
+net-firewall/xtables-addons 3.7: iptables extensions not yet accepted in the main kernel
 net-misc/dhcp-fwd 0.8 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
 net-misc/postman-bin 7.0.7: Supercharge your API workflow
 net-proxy/haproxy 1.9.6: A TCP/HTTP reverse proxy for high availability environments
