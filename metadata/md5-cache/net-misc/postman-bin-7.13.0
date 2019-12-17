@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst postrm preinst prepare
+DEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+DESCRIPTION=Supercharge your API workflow
+EAPI=7
+HOMEPAGE=https://www.getpostman.com
+KEYWORDS=~amd64
+LICENSE=MPL-2.0
+RESTRICT=mirror strip
+SLOT=0
+SRC_URI=amd64? ( https://dl.pstmn.io/download/version/7.13.0/linux64 -> postman-bin-7.13.0-amd64.tar.gz )
+_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=0996e7834ab9c0ec79bd2e816c347237
