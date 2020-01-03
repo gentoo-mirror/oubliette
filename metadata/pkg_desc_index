@@ -1,5 +1,6 @@
 app-misc/when 1.1.38: Minimalistic personal calendar program
 dev-lang/tcl 8.6.10: Tool Command Language
+dev-perl/X11-Protocol-Other 31: Miscellaneous helpers for X11::Protocol connections
 dev-python/netmiko 2.1.1 2.3.0: Multi-vendor library to simplify Paramiko SSH connections to network devices
 dev-python/textfsm 0.4.0 0.4.1: Python module for parsing semi-structured text into python tables.
 dev-tcltk/tcllib 1.20: Tcl Standard Library
@@ -9,6 +10,7 @@ dev-tcltk/tdbcsqlite3 1.0.6 1.1.1: Tcl Database Connectivity SQLite3 Driver
 dev-tcltk/tls 1.7.16 1.7.20: TLS OpenSSL extension to Tcl
 net-analyzer/smokeping 2.7.3-r1: A powerful latency measurement tool
 net-firewall/xtables-addons 3.7: iptables extensions not yet accepted in the main kernel
+net-misc/clusterssh 4.14: Concurrent Multi-Server Terminal Access
 net-misc/dhcp-fwd 0.8 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
 net-misc/postman-bin 7.0.7 7.13.0: Supercharge your API workflow
 sys-auth/pam_radius 1.4.0 9999: PAM RADIUS authentication module
