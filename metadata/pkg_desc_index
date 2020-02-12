@@ -1,5 +1,4 @@
 app-misc/when 1.1.38: Minimalistic personal calendar program
-dev-java/oracle-jdk-bin 1.8.0.241: Oracle's Java SE Development Kit
 dev-lang/tcl 8.6.10: Tool Command Language
 dev-perl/X11-Protocol-Other 31: Miscellaneous helpers for X11::Protocol connections
 dev-python/netmiko 2.1.1 2.3.0: Multi-vendor library to simplify Paramiko SSH connections to network devices
