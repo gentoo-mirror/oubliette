@@ -7,6 +7,7 @@ dev-tcltk/tcllib 1.20: Tcl Standard Library
 dev-tcltk/tdbc 1.0.6 1.1.1: Tcl Database Connectivity Core
 dev-tcltk/tdbcmysql 1.0.6 1.1.1: Tcl Database Connectivity MySQL Driver
 dev-tcltk/tdbcsqlite3 1.0.6 1.1.1: Tcl Database Connectivity SQLite3 Driver
+dev-tcltk/thread 2.8.5: Tcl Thread extension
 dev-tcltk/tls 1.7.16 1.7.20: TLS OpenSSL extension to Tcl
 games-roguelike/nethack 3.6.5: The ultimate old-school single player dungeon exploration game
 net-analyzer/smokeping 2.7.3-r1: A powerful latency measurement tool
@@ -15,5 +16,5 @@ net-misc/clusterssh 4.14: Concurrent Multi-Server Terminal Access
 net-misc/dhcp-fwd 0.8 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
 net-misc/postman-bin 7.0.7 7.13.0: Supercharge your API workflow
 sys-auth/pam_radius 1.4.0 9999: PAM RADIUS authentication module
-www-misc/zoneminder 1.30.4 1.32.3 1.32.3-r1 9999: full-featured, open source, state-of-the-art video surveillance software system
+www-misc/zoneminder 1.30.4 1.32.3 1.32.3-r1 1.34.5 9999: full-featured, open source, state-of-the-art video surveillance software system
 x11-misc/alock 2.3 2.4.0: Simple screen lock application for X server
