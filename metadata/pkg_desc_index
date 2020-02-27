@@ -1,6 +1,7 @@
 app-misc/when 1.1.38: Minimalistic personal calendar program
 dev-lang/tcl 8.6.10: Tool Command Language
 dev-perl/Data-Entropy 0.7.0-r1: entropy (randomness) management
+dev-perl/HTTP-Lite 2.400.0-r1: Lightweight HTTP implementation
 dev-perl/X11-Protocol-Other 31: Miscellaneous helpers for X11::Protocol connections
 dev-python/netmiko 2.1.1 2.3.0: Multi-vendor library to simplify Paramiko SSH connections to network devices
 dev-python/textfsm 0.4.0 0.4.1: Python module for parsing semi-structured text into python tables.
@@ -17,5 +18,5 @@ net-misc/clusterssh 4.14: Concurrent Multi-Server Terminal Access
 net-misc/dhcp-fwd 0.8 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
 net-misc/postman-bin 7.0.7 7.13.0: Supercharge your API workflow
 sys-auth/pam_radius 1.4.0 9999: PAM RADIUS authentication module
-www-misc/zoneminder 1.30.4 1.32.3 1.32.3-r1 1.34.5 9999: full-featured, open source, state-of-the-art video surveillance software system
+www-misc/zoneminder 1.32.3-r1 1.34.5 9999: full-featured, open source, state-of-the-art video surveillance software system
 x11-misc/alock 2.3 2.4.0: Simple screen lock application for X server
