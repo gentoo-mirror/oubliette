@@ -4,14 +4,12 @@
 # TO DO:
 # * dependencies of unknown status:
 #       dev-perl/Device-SerialPort
-#       dev-perl/MIME-Lite
 #       dev-perl/MIME-tools
 #       dev-perl/PHP-Serialization
 #       virtual/perl-Archive-Tar
 #       virtual/perl-libnet
 #       virtual/perl-Module-Load
 #
-#	dev-perl/Module-Install should be depend in dev-perl/HTTP-Lite
 
 EAPI=6
 
@@ -36,7 +34,7 @@ else
 fi
 
 LICENSE="GPL-2"
-KEYWORDS="~amd64"
+KEYWORDS="amd64"
 IUSE="curl encode ffmpeg gcrypt gnutls +mmap +ssl libressl vlc"
 SLOT="0"
 
@@ -67,7 +65,7 @@ dev-perl/JSON-MaybeXS
 dev-perl/Crypt-Eksblowfish
 dev-perl/Data-Entropy
 dev-perl/HTTP-Lite
-dev-perl/Module-Install
+dev-perl/MIME-Lite
 dev-php/pecl-apcu:*
 sys-auth/polkit
 sys-libs/zlib
