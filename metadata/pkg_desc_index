@@ -11,6 +11,7 @@ dev-tcltk/tdbcmysql 1.0.6 1.1.1: Tcl Database Connectivity MySQL Driver
 dev-tcltk/tdbcsqlite3 1.0.6 1.1.1: Tcl Database Connectivity SQLite3 Driver
 dev-tcltk/thread 2.8.5: Tcl Thread extension
 dev-tcltk/tls 1.7.16 1.7.20: TLS OpenSSL extension to Tcl
+dev-tcltk/udp 9999: provides UDP sockets for Tcl
 games-roguelike/nethack 3.6.5: The ultimate old-school single player dungeon exploration game
 net-analyzer/smokeping 2.7.3-r1: A powerful latency measurement tool
 net-firewall/xtables-addons 3.7: iptables extensions not yet accepted in the main kernel
