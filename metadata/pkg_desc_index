@@ -14,6 +14,7 @@ dev-tcltk/thread 2.8.5: Tcl Thread extension
 dev-tcltk/tls 1.7.16 1.7.20: TLS OpenSSL extension to Tcl
 dev-tcltk/udp 9999: provides UDP sockets for Tcl
 games-roguelike/nethack 3.6.5: The ultimate old-school single player dungeon exploration game
+games-roguelike/slex 9999: SLASH'EM Extended (a SLASH'EM fork) Sadistic Levels of Endless X-Citement
 net-analyzer/smokeping 2.7.3-r1: A powerful latency measurement tool
 net-firewall/xtables-addons 3.7: iptables extensions not yet accepted in the main kernel
 net-misc/clusterssh 4.14: Concurrent Multi-Server Terminal Access
