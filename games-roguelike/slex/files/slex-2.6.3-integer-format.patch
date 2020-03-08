@@ -1,3 +1,5 @@
+int vs long Wformat
+
 diff --git a/src/botl.c b/src/botl.c
 index af150f8d..077f1dc5 100644
 --- a/src/botl.c
