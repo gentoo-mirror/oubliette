@@ -1,5 +1,5 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=compile configure install prepare unpack
+DEFINED_PHASES=compile install prepare unpack
 DESCRIPTION=SLASH'EM Extended (a SLASH'EM fork) Sadistic Levels of Endless X-Citement
 EAPI=7
 HOMEPAGE=https://github.com/SLASHEM-Extended/SLASHEM-Extended
@@ -7,4 +7,4 @@ LICENSE=nethack
 PROPERTIES=live
 SLOT=0
 _eclasses_=git-r3	86a0188f2ad9eb3d65e4d031ab8a0422
-_md5_=a53f1a0d3d25ace27a3bcca6bce1197c
+_md5_=524843031cb9150bb5910c35f4c6b6ac
