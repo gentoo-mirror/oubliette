@@ -14,17 +14,12 @@ fi
 
 LICENSE="nethack"
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="~amd64 ~x86"
 IUSE=""
 
 DEPEND=""
 RDEPEND="${DEPEND}"
 BDEPEND=""
-
-if [[ "${PV}" == "9999" ]]; then
-	PROPERTIES="live"
-fi
-
 
 if [[ ! "${PV}" == "9999" ]]; then
 	S="${WORKDIR}/SLASHEM-Extended-slex-${PV}"
