@@ -1,5 +1,5 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=unpack
+DEFINED_PHASES=configure unpack
 DEPEND=acct-user/nethack acct-group/gamestat sys-libs/ncurses:0=
 DESCRIPTION=fork of NetHack features more randomnessm levels challenges fun than vanilla
 EAPI=7
@@ -9,4 +9,4 @@ PROPERTIES=live
 RDEPEND=acct-user/nethack acct-group/gamestat sys-libs/ncurses:0=
 SLOT=0
 _eclasses_=git-r3	86a0188f2ad9eb3d65e4d031ab8a0422
-_md5_=9fbf82efac5c15654696ce319460c9ff
+_md5_=8ee248d75b8603cb9ba0f3fc61300b73
