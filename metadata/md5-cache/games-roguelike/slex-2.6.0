@@ -1,0 +1,9 @@
+DEFINED_PHASES=compile configure install prepare
+DESCRIPTION=SLASH'EM Extended (a SLASH'EM fork) Sadistic Levels of Endless X-Citement
+EAPI=7
+HOMEPAGE=https://github.com/SLASHEM-Extended/SLASHEM-Extended
+KEYWORDS=~amd64 ~x86
+LICENSE=nethack
+SLOT=0
+SRC_URI=https://github.com/SLASHEM-Extended/SLASHEM-Extended/archive/slex-2.6.0.tar.gz
+_md5_=a744e637df163ad728d6805c1a1397fe
