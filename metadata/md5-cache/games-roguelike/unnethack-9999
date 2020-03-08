@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=unpack
+DEPEND=acct-user/nethack acct-group/gamestat sys-libs/ncurses:0=
+DESCRIPTION=fork of NetHack features more randomnessm levels challenges fun than vanilla
+EAPI=7
+HOMEPAGE=https://unnethack.wordpress.com
+LICENSE=nethack
+PROPERTIES=live
+RDEPEND=acct-user/nethack acct-group/gamestat sys-libs/ncurses:0=
+SLOT=0
+_eclasses_=git-r3	86a0188f2ad9eb3d65e4d031ab8a0422
+_md5_=9fbf82efac5c15654696ce319460c9ff
