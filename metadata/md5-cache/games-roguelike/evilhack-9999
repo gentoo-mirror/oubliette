@@ -1,0 +1,13 @@
+BDEPEND=virtual/pkgconfig X? ( x11-apps/bdftopcf x11-apps/mkfontscale ) >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install postinst preinst prepare unpack
+DEPEND=acct-group/gamestat sys-libs/ncurses:0= X? ( x11-libs/libXaw x11-libs/libXpm x11-libs/libXt ) X? ( x11-base/xorg-proto )
+DESCRIPTION=NetHack 3.6 variant features GruntHack, SporkHack and others with custom content
+EAPI=7
+HOMEPAGE=https://evilhackwiki.com/wiki/EvilHack
+IUSE=-X
+LICENSE=nethack
+PROPERTIES=live
+RDEPEND=acct-group/gamestat sys-libs/ncurses:0= X? ( x11-libs/libXaw x11-libs/libXpm x11-libs/libXt )
+SLOT=0
+_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	eutils	fcb2aa98e1948b835b5ae66ca52868c5	flag-o-matic	3719195b17f75382c225c2155e81198c	git-r3	86a0188f2ad9eb3d65e4d031ab8a0422	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_md5_=c33ffd22d22f8daa85028098df8999e9
