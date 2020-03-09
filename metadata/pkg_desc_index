@@ -1,4 +1,3 @@
-acct-user/nethack 0: A user for nethack and forks
 app-misc/when 1.1.38: Minimalistic personal calendar program
 dev-db/sqlite 3.31.1: SQL database engine
 dev-lang/tcl 8.6.10: Tool Command Language
@@ -16,7 +15,6 @@ dev-tcltk/tls 1.7.16 1.7.20: TLS OpenSSL extension to Tcl
 dev-tcltk/udp 9999: provides UDP sockets for Tcl
 games-roguelike/nethack 3.6.5: The ultimate old-school single player dungeon exploration game
 games-roguelike/slex 9999: SLASH'EM Extended (a SLASH'EM fork) Sadistic Levels of Endless X-Citement
-games-roguelike/unnethack 9999: fork of NetHack features more randomnessm levels challenges fun than vanilla
 net-analyzer/smokeping 2.7.3-r1: A powerful latency measurement tool
 net-firewall/xtables-addons 3.7: iptables extensions not yet accepted in the main kernel
 net-misc/clusterssh 4.14: Concurrent Multi-Server Terminal Access
