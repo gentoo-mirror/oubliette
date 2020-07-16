@@ -8,7 +8,6 @@ net-analyzer/smokeping:dig - Install net-dns/bind-tools for dig functionality
 net-analyzer/smokeping:echoping - Install net-analyzer/echoping for echoping functionality
 net-misc/dhcp-fwd:diet - compiles with diet libc
 net-misc/dhcp-fwd:logging - compiles with logging support
-sys-fabric/mstflint:inband - Enable firmware updates for Mellanox SwitchX and ConnectIB devices
 www-misc/zoneminder:curl - Enable using net-misc/curl for streaming from cameras
 www-misc/zoneminder:gcrypt - ...
 www-misc/zoneminder:vlc - Enable using media-libs/vlc for streaming from cameras
