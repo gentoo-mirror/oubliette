@@ -18,6 +18,7 @@ games-roguelike/evilhack 9999: NetHack 3.6 variant features GruntHack, SporkHack
 games-roguelike/nethack 3.6.6: The ultimate old-school single player dungeon exploration game
 games-roguelike/slex 9999: SLASH'EM Extended (a SLASH'EM fork) Sadistic Levels of Endless X-Citement
 net-analyzer/smokeping 2.7.3-r1: A powerful latency measurement tool
+net-analyzer/zenmap 7.70 7.80-r1: Graphical frontend for nmap
 net-firewall/xtables-addons 3.9: iptables extensions not yet accepted in the main kernel
 net-misc/clusterssh 4.14: Concurrent Multi-Server Terminal Access
 net-misc/dhcp-fwd 0.8 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
