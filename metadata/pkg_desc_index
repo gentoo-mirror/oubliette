@@ -15,6 +15,7 @@ dev-tcltk/tdbcodbc 1.1.2: Tcl Database Connectivity ODBC Driver
 dev-tcltk/tdbcpostgres 1.1.2: Tcl Database Connectivity Postgres Driver
 dev-tcltk/tdbcsqlite3 1.1.2: Tcl Database Connectivity SQLite3 Driver
 dev-tcltk/thread 2.8.5: Tcl Thread extension
+dev-tcltk/tklib 0.7: Collection of utility modules for Tk, and a companion to Tcllib
 dev-tcltk/tls 1.7.20 1.7.21: TLS OpenSSL extension to Tcl
 dev-tcltk/udp 9999: provides UDP sockets for Tcl
 games-roguelike/evilhack 9999: NetHack 3.6 variant features GruntHack, SporkHack and others with custom content
