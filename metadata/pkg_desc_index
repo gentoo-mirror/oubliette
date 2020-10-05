@@ -1,5 +1,5 @@
 app-editors/scite 4.4.3: A powerful, highly configurable, small editor with syntax coloring
-app-misc/when 1.1.38: Minimalistic personal calendar program
+app-misc/when 1.1.38 1.1.40: Minimalistic personal calendar program
 dev-db/sqlite 3.31.1: SQL database engine
 dev-lang/tcl 8.6.10: Tool Command Language
 dev-lang/tk 8.6.10: Tk Widget Set
