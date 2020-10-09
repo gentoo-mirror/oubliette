@@ -8,16 +8,6 @@ net-analyzer/smokeping:dig - Install net-dns/bind-tools for dig functionality
 net-analyzer/smokeping:echoping - Install net-analyzer/echoping for echoping functionality
 net-misc/dhcp-fwd:diet - compiles with diet libc
 net-misc/dhcp-fwd:logging - compiles with logging support
-net-proxy/haproxy:51degrees - Device Detection using 51 Degrees
-net-proxy/haproxy:device-atlas - Use dev-libs/device-atlas-api-c library
-net-proxy/haproxy:net_ns - Enable network namespace support (CONFIG_NET_NS)
-net-proxy/haproxy:pcre-jit - Use JIT support for PCRE
-net-proxy/haproxy:pcre2 - Enable PCRE2 RegEx support
-net-proxy/haproxy:pcre2-jit - Use JIT support for PCRE2
-net-proxy/haproxy:prometheus-exporter - Also build the prometheus exporter
-net-proxy/haproxy:slz - Use dev-libs/libslz compression library
-net-proxy/haproxy:tools - Install additional tools (halog, iprange)
-net-proxy/haproxy:wurfl - Device Detection using WURFL
 www-misc/zoneminder:curl - Enable using net-misc/curl for streaming from cameras
 www-misc/zoneminder:gcrypt - ...
 www-misc/zoneminder:vlc - Enable using media-libs/vlc for streaming from cameras

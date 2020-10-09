@@ -29,7 +29,6 @@ net-misc/clusterssh 4.16: Concurrent Multi-Server Terminal Access
 net-misc/dhcp-fwd 0.8 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
 net-misc/icaclient 20.06.0.15: ICA Client for Citrix Presentation servers
 net-misc/postman-bin 7.33.1: Supercharge your API workflow
-net-proxy/haproxy 2.2.4: A TCP/HTTP reverse proxy for high availability environments
 sci-geosciences/gpsbabel 1.7.0: GPS waypoints, tracks and routes converter
 sci-mathematics/calc 2.12.7.2: Arbitrary precision C-like arithmetic system
 sys-apps/mlxup-bin 4.14.4: Mellanox Update and Query Utility
