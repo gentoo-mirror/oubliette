@@ -65,12 +65,13 @@ dev-perl/Crypt-Eksblowfish
 dev-perl/Data-Entropy
 dev-perl/HTTP-Lite
 dev-perl/MIME-Lite
-dev-perl/Device-SerialPort
 dev-perl/X10
+dev-perl/DateTime
+dev-perl/Device-SerialPort
 dev-php/pecl-apcu:*
 sys-auth/polkit
 sys-libs/zlib
-media-video/ffmpeg
+media-video/ffmpeg[x264]
 encode? ( media-libs/libmp4v2 )
 virtual/httpd-php:*
 virtual/jpeg:0
