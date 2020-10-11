@@ -6,7 +6,6 @@ dev-lang/tcl 8.6.10: Tool Command Language
 dev-lang/tk 8.6.10: Tk Widget Set
 dev-perl/Data-Entropy 0.7.0-r1: entropy (randomness) management
 dev-perl/HTTP-Lite 2.400.0-r1: Lightweight HTTP implementation
-dev-perl/X10-Home 0.04: X10 for your Home
 dev-perl/X11-Protocol-Other 31: Miscellaneous helpers for X11::Protocol connections
 dev-python/netmiko 2.1.1 2.3.0: Multi-vendor library to simplify Paramiko SSH connections to network devices
 dev-python/textfsm 0.4.0 0.4.1: Python module for parsing semi-structured text into python tables.
