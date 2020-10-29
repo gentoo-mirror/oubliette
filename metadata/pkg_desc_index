@@ -7,6 +7,13 @@ dev-perl/Data-Entropy 0.7.0-r1: entropy (randomness) management
 dev-perl/HTTP-Lite 2.400.0-r1: Lightweight HTTP implementation
 dev-perl/X10 0.04: Perl X10 module
 dev-perl/X11-Protocol-Other 31: Miscellaneous helpers for X11::Protocol connections
+dev-python/azure-cli-core 2.14.0: Microsoft Azure Command-Line Tools Core Module
+dev-python/azure-mgmt-compute 17.0.0: Microsoft Azure Compute Resource Management Client Library for Python
+dev-python/azure-mgmt-keyvault 8.0.0: Microsoft Azure KeyVault Apps Resource Management Client Library for Python
+dev-python/azure-mgmt-monitor 1.0.1: Microsoft Azure Monitor Management Client Library for Python
+dev-python/azure-mgmt-network 16.0.0: Microsoft Azure Network Resource Management Client Library for Python
+dev-python/azure-mgmt-search 3.0.0: Microsoft Azure Search Management Client Library for Python
+dev-python/azure-mgmt-storage 16.0.0: Microsoft Azure Storage Resource Management Client Library for Python
 dev-python/netmiko 2.1.1 2.3.0: Multi-vendor library to simplify Paramiko SSH connections to network devices
 dev-python/textfsm 0.4.0 0.4.1: Python module for parsing semi-structured text into python tables.
 dev-tcltk/tdbc 1.1.2: Tcl Database Connectivity Core
@@ -25,6 +32,7 @@ games-roguelike/slex 9999: SLASH'EM Extended (a SLASH'EM fork) Sadistic Levels o
 net-analyzer/smokeping 2.7.3-r1: A powerful latency measurement tool
 net-analyzer/zenmap 7.70 7.80-r1: Graphical frontend for nmap
 net-firewall/xtables-addons 3.9: iptables extensions not yet accepted in the main kernel
+net-misc/azure-cli 2.14.0: Microsoft Azure Command-Line Tools
 net-misc/clusterssh 4.16: Concurrent Multi-Server Terminal Access
 net-misc/dhcp-fwd 0.8 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
 net-misc/icaclient 20.06.0.15: ICA Client for Citrix Presentation servers
