@@ -15,8 +15,6 @@ dev-python/azure-mgmt-monitor 1.0.1: Microsoft Azure Monitor Management Client L
 dev-python/azure-mgmt-network 16.0.0: Microsoft Azure Network Resource Management Client Library for Python
 dev-python/azure-mgmt-search 3.0.0: Microsoft Azure Search Management Client Library for Python
 dev-python/azure-mgmt-storage 16.0.0: Microsoft Azure Storage Resource Management Client Library for Python
-dev-python/netmiko 2.1.1 2.3.0: Multi-vendor library to simplify Paramiko SSH connections to network devices
-dev-python/textfsm 0.4.0 0.4.1: Python module for parsing semi-structured text into python tables.
 dev-tcltk/tdbc 1.1.2: Tcl Database Connectivity Core
 dev-tcltk/tdbcmysql 1.1.2: Tcl Database Connectivity MySQL Driver
 dev-tcltk/tdbcodbc 1.1.2: Tcl Database Connectivity ODBC Driver
@@ -31,7 +29,6 @@ games-roguelike/evilhack 9999: NetHack 3.6 variant features GruntHack, SporkHack
 games-roguelike/nethack 3.6.6: The ultimate old-school single player dungeon exploration game
 games-roguelike/slex 9999: SLASH'EM Extended (a SLASH'EM fork) Sadistic Levels of Endless X-Citement
 net-analyzer/smokeping 2.7.3-r1: A powerful latency measurement tool
-net-analyzer/zenmap 7.70 7.80-r1: Graphical frontend for nmap
 net-firewall/xtables-addons 3.9: iptables extensions not yet accepted in the main kernel
 net-misc/azure-cli 2.14.0: Microsoft Azure Command-Line Tools
 net-misc/clusterssh 4.16: Concurrent Multi-Server Terminal Access
