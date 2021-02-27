@@ -41,5 +41,5 @@ sci-geosciences/gpsbabel 1.7.0: GPS waypoints, tracks and routes converter
 sci-mathematics/calc 2.12.7.2: Arbitrary precision C-like arithmetic system
 sys-apps/mlxup-bin 4.14.4: Mellanox Update and Query Utility
 sys-auth/pam_radius 1.4.0 2.0.0 9999: PAM RADIUS authentication module
-www-misc/zoneminder 1.34.21 1.34.21-r1 9999: full-featured, open source, state-of-the-art video surveillance software system
+www-misc/zoneminder 1.34.21 1.34.21-r1 1.34.23 9999: full-featured, open source, state-of-the-art video surveillance software system
 x11-misc/alock 1.0.0 2.5.0 9999: Simple screen lock application for X server
