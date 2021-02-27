@@ -8,13 +8,14 @@ dev-perl/Data-Entropy 0.7.0-r1: entropy (randomness) management
 dev-perl/HTTP-Lite 2.400.0-r1: Lightweight HTTP implementation
 dev-perl/X10 0.04: Perl X10 module
 dev-perl/X11-Protocol-Other 31: Miscellaneous helpers for X11::Protocol connections
-dev-python/azure-cli-core 2.14.0: Microsoft Azure Command-Line Tools Core Module
-dev-python/azure-mgmt-compute 17.0.0: Microsoft Azure Compute Resource Management Client Library for Python
+dev-python/azure-cli-core 2.19.1: Microsoft Azure Command-Line Tools Core Module
+dev-python/azure-common 1.1.26: Microsoft Azure Client Library for Python (Common)
+dev-python/azure-mgmt-compute 17.0.0 19.0.0: Microsoft Azure Compute Resource Management Client Library for Python
 dev-python/azure-mgmt-keyvault 8.0.0: Microsoft Azure KeyVault Apps Resource Management Client Library for Python
-dev-python/azure-mgmt-monitor 1.0.1: Microsoft Azure Monitor Management Client Library for Python
-dev-python/azure-mgmt-network 16.0.0: Microsoft Azure Network Resource Management Client Library for Python
-dev-python/azure-mgmt-search 3.0.0: Microsoft Azure Search Management Client Library for Python
-dev-python/azure-mgmt-storage 16.0.0: Microsoft Azure Storage Resource Management Client Library for Python
+dev-python/azure-mgmt-monitor 1.0.1 2.0.0: Microsoft Azure Monitor Management Client Library for Python
+dev-python/azure-mgmt-network 16.0.0 17.1.0: Microsoft Azure Network Resource Management Client Library for Python
+dev-python/azure-mgmt-search 3.0.0 8.0.0: Microsoft Azure Search Management Client Library for Python
+dev-python/azure-mgmt-storage 16.0.0 17.0.0: Microsoft Azure Storage Resource Management Client Library for Python
 dev-tcltk/tdbc 1.1.2: Tcl Database Connectivity Core
 dev-tcltk/tdbcmysql 1.1.2: Tcl Database Connectivity MySQL Driver
 dev-tcltk/tdbcodbc 1.1.2: Tcl Database Connectivity ODBC Driver
