@@ -12,7 +12,6 @@ dev-python/azure-common 1.1.26: Microsoft Azure Client Library for Python (Commo
 dev-python/azure-mgmt-compute 17.0.0 19.0.0: Microsoft Azure Compute Resource Management Client Library for Python
 dev-python/azure-mgmt-keyvault 8.0.0: Microsoft Azure KeyVault Apps Resource Management Client Library for Python
 dev-python/azure-mgmt-monitor 1.0.1 2.0.0: Microsoft Azure Monitor Management Client Library for Python
-dev-python/azure-mgmt-network 16.0.0 17.1.0: Microsoft Azure Network Resource Management Client Library for Python
 dev-python/azure-mgmt-search 3.0.0 8.0.0: Microsoft Azure Search Management Client Library for Python
 dev-python/azure-mgmt-storage 16.0.0 17.0.0: Microsoft Azure Storage Resource Management Client Library for Python
 dev-tcltk/tdbc 1.1.2: Tcl Database Connectivity Core
