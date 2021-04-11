@@ -152,6 +152,11 @@ pkg_postinst() {
 		rm -r -f "${EROOT}/usr/$(get_libdir)/distcc" || die
 	fi
 
+	# remove the old paths when switching from lib to libXX
+	if [[ $(get_libdir) != lib && -d ${EROOT}/usr/lib/distcc ]]; then
+		rm -r -f "${EROOT}/usr/lib/distcc" || die
+	fi
+
 	if [[ -z ${ROOT} ]]; then
 		eselect compiler-shadow update distcc
 		eselect compiler-shadow update distccd
