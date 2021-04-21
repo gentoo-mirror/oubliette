@@ -28,7 +28,7 @@ dev-util/catalyst 9999: Release metatool used for creating releases based on Gen
 games-roguelike/evilhack 9999: NetHack 3.6 variant features GruntHack, SporkHack and others with custom content
 games-roguelike/nethack 3.6.6: The ultimate old-school single player dungeon exploration game
 games-roguelike/slex 9999: SLASH'EM Extended (a SLASH'EM fork) Sadistic Levels of Endless X-Citement
-net-analyzer/smokeping 2.7.3-r1: A powerful latency measurement tool
+net-analyzer/smokeping 2.7.3-r1 2.7.3-r2: A powerful latency measurement tool
 net-dns/bind 9.16.11-r1: Berkeley Internet Name Domain - Name Server
 net-firewall/xtables-addons 3.9: iptables extensions not yet accepted in the main kernel
 net-misc/azure-cli 2.14.0: Microsoft Azure Command-Line Tools
