@@ -33,7 +33,6 @@ net-dns/bind 9.16.11-r1: Berkeley Internet Name Domain - Name Server
 net-firewall/xtables-addons 3.9: iptables extensions not yet accepted in the main kernel
 net-misc/azure-cli 2.14.0: Microsoft Azure Command-Line Tools
 net-misc/clusterssh 4.16: Concurrent Multi-Server Terminal Access
-net-misc/curl 7.72.0: A Client that groks URLs
 net-misc/dhcp-fwd 0.8 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
 net-misc/icaclient 20.06.0.15: ICA Client for Citrix Presentation servers
 net-misc/postman-bin 7.33.1: Supercharge your API workflow
