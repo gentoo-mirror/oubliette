@@ -1,0 +1,16 @@
+BDEPEND=test? ( x11-base/xorg-server[xvfb] x11-apps/xhost )
+DEFINED_PHASES=unpack
+DEPEND=>=dev-lang/tcl-8.6
+DESCRIPTION=Tcl Database Connectivity Core
+EAPI=7
+HOMEPAGE=http://tdbc.tcl.tk/
+INHERIT=eutils virtualx
+IUSE=test
+KEYWORDS=amd64 ~hppa ~ia64 ~mips ~ppc ~x86 ~amd64-linux ~x86-linux
+LICENSE=tcltk
+RDEPEND=>=dev-lang/tcl-8.6
+RESTRICT=!test? ( test )
+SLOT=0
+SRC_URI=http://tdbc.tcl.tk/index.cgi/tarball/4e6b72e13b/TDBC-4e6b72e13b.tar.gz https://core.tcl.tk/tclconfig/tarball/fff5880706/TEA+%28tclconfig%29+Source+Code-fff5880706.tar.gz
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	2d5b3f4b315094768576b6799e4f926e	virtualx	0a780e1ab49c75da33a78ede35ab8f9c
+_md5_=6c536f3d1a61336fcdc49364c8067bfa
