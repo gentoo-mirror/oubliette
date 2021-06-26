@@ -65,6 +65,12 @@ net-misc/azure-cli:util - Install utility to invoke a custom request i.e. 'az re
 net-misc/azure-cli:vm - Install the VM module. i.e. 'az vm', 'az vmss', 'az ppg', 'az disk', 'az sig', 'az snapshot' and 'az image'
 net-misc/dhcp-fwd:diet - compiles with diet libc
 net-misc/dhcp-fwd:logging - compiles with logging support
+net-vpn/openvpn:down-root - Enable the down-root plugin
+net-vpn/openvpn:iproute2 - Enabled iproute2 support instead of net-tools
+net-vpn/openvpn:mbedtls - Use mbed TLS as the backend crypto library
+net-vpn/openvpn:openssl - Use OpenSSL as the backend crypto library
+net-vpn/openvpn:pkcs11 - Enable PKCS#11 smartcard support
+net-vpn/openvpn:plugins - Enable the OpenVPN plugin system
 sys-devel/distcc:gssapi - Enable support for net-libs/libgssglue
 www-misc/zoneminder:curl - Enable using net-misc/curl for streaming from cameras
 www-misc/zoneminder:gcrypt - ...
