@@ -65,6 +65,7 @@ net-misc/azure-cli:util - Install utility to invoke a custom request i.e. 'az re
 net-misc/azure-cli:vm - Install the VM module. i.e. 'az vm', 'az vmss', 'az ppg', 'az disk', 'az sig', 'az snapshot' and 'az image'
 net-misc/dhcp-fwd:diet - compiles with diet libc
 net-misc/dhcp-fwd:logging - compiles with logging support
+net-proxy/c-icap:logrotate - Install logrotate.d file
 net-vpn/openvpn:down-root - Enable the down-root plugin
 net-vpn/openvpn:iproute2 - Enabled iproute2 support instead of net-tools
 net-vpn/openvpn:mbedtls - Use mbed TLS as the backend crypto library
