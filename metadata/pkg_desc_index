@@ -38,6 +38,7 @@ net-misc/icaclient 20.06.0.15: ICA Client for Citrix Presentation servers
 net-misc/postman-bin 7.33.1: Supercharge your API workflow
 net-proxy/c-icap 0.5.8 9999: an implementation of an ICAP server written in C
 net-proxy/c-icap-modules 0.5.4 9999: an implementation of an ICAP server written in C
+net-proxy/squidclamav 7.1 9999: SquidClamAv is a dedicated ClamAV antivirus redirector for Squid
 net-vpn/openvpn 2.5.3: Robust and highly flexible tunneling application compatible with many OSes
 sci-geosciences/gpsbabel 1.7.0: GPS waypoints, tracks and routes converter
 sci-mathematics/calc 2.12.7.2: Arbitrary precision C-like arithmetic system
