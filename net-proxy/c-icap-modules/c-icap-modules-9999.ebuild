@@ -18,11 +18,11 @@ fi
 
 LICENSE="LGPL-2.1"
 SLOT="0"
-IUSE="berkdb clamav"
+IUSE="berkdb"
 
 DEPEND="
 	berkdb? ( sys-libs/db:* )
-	clamav? ( app-antivirus/clamav )
+	app-antivirus/clamav
 	net-proxy/c-icap
 	"
 RDEPEND="${DEPEND}"
@@ -41,11 +41,13 @@ src_configure() {
 		--disable-maintainer-mode \
 		--disable-static \
 		--with-c-icap \
-		$(use_with berkdb bdb) \
-		$(use_with clamav)
+		--with-clamav \
+		$(use_with berkdb bdb)
 }
 
 src_install() {
+	dodir /etc/c-icap
+
 	default
 
 	dodoc AUTHORS README ChangeLog
