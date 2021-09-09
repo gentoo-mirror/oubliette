@@ -6,6 +6,7 @@ EAPI=7
 HOMEPAGE=http://www.zoneminder.com/
 INHERIT=perl-functions readme.gentoo-r1 cmake flag-o-matic systemd git-r3
 IUSE=curl encode gcrypt gnutls +mmap +ssl vlc
+KEYWORDS=~amd64
 LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=app-eselect/eselect-php[apache2] dev-lang/perl:= dev-lang/php:*[apache2,cgi,curl,gd,inifile,pdo,mysql,mysqli,sockets] dev-libs/libpcre dev-perl/Archive-Zip dev-perl/Class-Std-Fast dev-perl/Data-Dump dev-perl/Date-Manip dev-perl/Data-UUID dev-perl/DBD-mysql dev-perl/DBI dev-perl/IO-Socket-Multicast dev-perl/SOAP-WSDL dev-perl/Sys-CPU dev-perl/Sys-MemInfo dev-perl/URI-Encode dev-perl/libwww-perl dev-perl/Number-Bytes-Human dev-perl/JSON-MaybeXS dev-perl/Crypt-Eksblowfish dev-perl/Data-Entropy dev-perl/HTTP-Lite dev-perl/MIME-Lite dev-perl/X10 dev-perl/DateTime dev-perl/Device-SerialPort dev-php/pecl-apcu:* sys-auth/polkit sys-libs/zlib media-video/ffmpeg[x264,x265,jpeg2k] encode? ( media-libs/libmp4v2 ) virtual/httpd-php:* virtual/jpeg:0 virtual/mysql virtual/perl-ExtUtils-MakeMaker virtual/perl-Getopt-Long virtual/perl-Sys-Syslog virtual/perl-Time-HiRes www-servers/apache curl? ( net-misc/curl ) gcrypt? ( dev-libs/libgcrypt:0= ) gnutls? ( net-libs/gnutls ) mmap? ( dev-perl/Sys-Mmap ) ssl? ( dev-libs/openssl:0= ) vlc? ( media-video/vlc[live] )
