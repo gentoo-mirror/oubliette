@@ -1,7 +1,5 @@
 acct-group/cicap 0-r1: System group: cicap
 acct-user/cicap 0-r1: user for c-icap-server
-app-crypt/johntheripper-jumbo 9999: fast password cracker
-app-editors/scite 4.4.5: A powerful, highly configurable, small editor with syntax coloring
 app-misc/when 1.1.38 1.1.40: Minimalistic personal calendar program
 dev-lang/tcl 8.6.10: Tool Command Language
 dev-lang/tk 8.6.10: Tk Widget Set
@@ -27,7 +25,6 @@ dev-tcltk/tklib 0.7: Collection of utility modules for Tk, and a companion to Tc
 dev-tcltk/tls 1.7.21: TLS OpenSSL extension to Tcl
 dev-tcltk/udp 9999: provides UDP sockets for Tcl
 games-roguelike/evilhack 9999: NetHack 3.6 variant features GruntHack, SporkHack and others with custom content
-games-roguelike/nethack 3.6.6: The ultimate old-school single player dungeon exploration game
 games-roguelike/slex 9999: SLASH'EM Extended (a SLASH'EM fork) Sadistic Levels of Endless X-Citement
 net-analyzer/smokeping 2.7.3-r1 2.7.3-r2: A powerful latency measurement tool
 net-firewall/xtables-addons 3.9: iptables extensions not yet accepted in the main kernel

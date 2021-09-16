@@ -2,8 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-crypt/johntheripper-jumbo:opencl - Build with opencl/GPU cracking support
-app-crypt/johntheripper-jumbo:pcap - Build with pcap support
 net-analyzer/smokeping:dig - Install net-dns/bind-tools for dig functionality
 net-analyzer/smokeping:echoping - Install net-analyzer/echoping for echoping functionality
 net-misc/azure-cli:acr - Install the Azure Container Registries module. i.e. 'az acr'
