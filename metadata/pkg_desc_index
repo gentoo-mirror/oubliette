@@ -36,7 +36,7 @@ net-misc/clusterssh 4.16: Concurrent Multi-Server Terminal Access
 net-misc/dhcp-fwd 0.8 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
 net-misc/icaclient 20.06.0.15: ICA Client for Citrix Presentation servers
 net-misc/postman-bin 7.33.1: Supercharge your API workflow
-net-proxy/c-icap 0.5.8 9999: an implementation of an ICAP server written in C
+net-proxy/c-icap 0.5.8 0.5.9 9999: an implementation of an ICAP server written in C
 net-proxy/c-icap-modules 0.5.4 9999: an implementation of an ICAP server written in C
 net-proxy/squidclamav 7.1 9999: SquidClamAv is a dedicated ClamAV antivirus redirector for Squid
 net-vpn/openvpn 2.5.3: Robust and highly flexible tunneling application compatible with many OSes
