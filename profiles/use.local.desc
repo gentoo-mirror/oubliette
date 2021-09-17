@@ -70,7 +70,6 @@ net-vpn/openvpn:mbedtls - Use mbed TLS as the backend crypto library
 net-vpn/openvpn:openssl - Use OpenSSL as the backend crypto library
 net-vpn/openvpn:pkcs11 - Enable PKCS#11 smartcard support
 net-vpn/openvpn:plugins - Enable the OpenVPN plugin system
-sys-devel/distcc:gssapi - Enable support for net-libs/libgssglue
 www-misc/zoneminder:curl - Enable using net-misc/curl for streaming from cameras
 www-misc/zoneminder:gcrypt - ...
 www-misc/zoneminder:vlc - Enable using media-libs/vlc for streaming from cameras
