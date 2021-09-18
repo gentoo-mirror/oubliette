@@ -5,13 +5,6 @@ dev-perl/Data-Entropy 0.7.0-r1: entropy (randomness) management
 dev-perl/HTTP-Lite 2.400.0-r1: Lightweight HTTP implementation
 dev-perl/X10 0.04: Perl X10 module
 dev-perl/X11-Protocol-Other 31: Miscellaneous helpers for X11::Protocol connections
-dev-python/azure-cli-core 2.19.1: Microsoft Azure Command-Line Tools Core Module
-dev-python/azure-common 1.1.26: Microsoft Azure Client Library for Python (Common)
-dev-python/azure-mgmt-compute 17.0.0 19.0.0: Microsoft Azure Compute Resource Management Client Library for Python
-dev-python/azure-mgmt-keyvault 8.0.0: Microsoft Azure KeyVault Apps Resource Management Client Library for Python
-dev-python/azure-mgmt-monitor 1.0.1 2.0.0: Microsoft Azure Monitor Management Client Library for Python
-dev-python/azure-mgmt-search 3.0.0 8.0.0: Microsoft Azure Search Management Client Library for Python
-dev-python/azure-mgmt-storage 16.0.0 17.0.0: Microsoft Azure Storage Resource Management Client Library for Python
 dev-tcltk/tdbc 1.1.2: Tcl Database Connectivity Core
 dev-tcltk/tdbcmysql 1.1.2: Tcl Database Connectivity MySQL Driver
 dev-tcltk/tdbcodbc 1.1.2: Tcl Database Connectivity ODBC Driver
@@ -24,7 +17,6 @@ dev-tcltk/udp 9999: provides UDP sockets for Tcl
 games-roguelike/evilhack 9999: NetHack 3.6 variant features GruntHack, SporkHack and others with custom content
 games-roguelike/slex 9999: SLASH'EM Extended (a SLASH'EM fork) Sadistic Levels of Endless X-Citement
 net-analyzer/smokeping 2.7.3-r1 2.7.3-r2: A powerful latency measurement tool
-net-misc/azure-cli 2.14.0: Microsoft Azure Command-Line Tools
 net-misc/dhcp-fwd 0.8 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
 net-misc/postman-bin 8.11.1: Supercharge your API workflow
 net-proxy/c-icap 0.5.8 0.5.9 9999: an implementation of an ICAP server written in C
