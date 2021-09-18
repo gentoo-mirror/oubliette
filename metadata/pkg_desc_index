@@ -15,7 +15,6 @@ dev-tcltk/thread 2.8.5: Tcl Thread extension
 dev-tcltk/tklib 0.7: Collection of utility modules for Tk, and a companion to Tcllib
 dev-tcltk/udp 9999: provides UDP sockets for Tcl
 games-roguelike/evilhack 9999: NetHack 3.6 variant features GruntHack, SporkHack and others with custom content
-games-roguelike/slex 9999: SLASH'EM Extended (a SLASH'EM fork) Sadistic Levels of Endless X-Citement
 net-analyzer/smokeping 2.7.3-r1 2.7.3-r2: A powerful latency measurement tool
 net-misc/dhcp-fwd 0.8 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
 net-misc/postman-bin 8.11.1: Supercharge your API workflow
