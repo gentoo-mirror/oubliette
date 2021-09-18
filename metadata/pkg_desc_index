@@ -1,5 +1,6 @@
 acct-group/cicap 0-r1: System group: cicap
 acct-user/cicap 0-r1: user for c-icap-server
+app-misc/cmatrix 1.2a-r4: An ncurses based app to show a scrolling screen from the Matrix
 dev-perl/Data-Entropy 0.7.0-r1: entropy (randomness) management
 dev-perl/HTTP-Lite 2.400.0-r1: Lightweight HTTP implementation
 dev-perl/X10 0.04: Perl X10 module

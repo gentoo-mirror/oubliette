@@ -1,0 +1,15 @@
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.2-r1:1.16 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+DEFINED_PHASES=install postinst postrm prepare setup
+DEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 ) sys-libs/ncurses:0=
+DESCRIPTION=An ncurses based app to show a scrolling screen from the Matrix
+EAPI=7
+HOMEPAGE=https://sourceforge.net/projects/cmatrix/
+INHERIT=autotools font
+IUSE=X X
+KEYWORDS=~alpha amd64 ~hppa ~ppc ~ppc64 ~sparc ~x86
+LICENSE=GPL-2
+RDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 ) sys-libs/ncurses:0=
+SLOT=0
+SRC_URI=mirror://sourceforge/cmatrix/cmatrix-1.2a.tar.gz
+_eclasses_=gnuconfig	262062cef0ba4f22b397193da514a350	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	libtool	241a8f577b9781a42a7421e53448a44e	autotools	c7052b276346587968d52ea8eaf5aca1	font	0667878c2b594871023dd1833d05996f
+_md5_=5748fa04b20c54a2871e23f08ef76a63
