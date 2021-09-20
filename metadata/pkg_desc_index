@@ -17,11 +17,11 @@ games-roguelike/evilhack 9999: NetHack 3.6 variant features GruntHack, SporkHack
 net-analyzer/smokeping 2.7.3-r2 2.8.2: A powerful latency measurement tool
 net-misc/dhcp-fwd 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
 net-misc/postman-bin 8.11.1: Supercharge your API workflow
-net-proxy/c-icap 0.5.8 0.5.9 9999: an implementation of an ICAP server written in C
+net-proxy/c-icap 0.5.9 9999: an implementation of an ICAP server written in C
 net-proxy/c-icap-modules 0.5.4 9999: an implementation of an ICAP server written in C
 net-proxy/squidclamav 7.1 9999: SquidClamAv is a dedicated ClamAV antivirus redirector for Squid
 net-vpn/openvpn 2.5.3: Robust and highly flexible tunneling application compatible with many OSes
 sys-auth/pam_radius 1.4.0 2.0.0 9999: PAM RADIUS authentication module
 sys-fs/dislocker 0.7.3 9999: Dislocker is used to read BitLocker encrypted partitions
-www-misc/zoneminder 1.36.6 1.36.7 9999: full-featured, open source, state-of-the-art video surveillance software system
+www-misc/zoneminder 1.36.7 9999: full-featured, open source, state-of-the-art video surveillance software system
 x11-misc/alock 1.0.0 2.5.0 9999: Simple screen lock application for X server
