@@ -1,13 +1,13 @@
-BDEPEND=>=dev-vcs/git-1.8.2.1[curl] sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.2-r1:1.16 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=configure install postinst unpack
 DEPEND=net-proxy/c-icap app-antivirus/clamav app-arch/libarchive
 DESCRIPTION=SquidClamAv is a dedicated ClamAV antivirus redirector for Squid
 EAPI=7
 HOMEPAGE=https://squidclamav.darold.net/
-INHERIT=git-r3 autotools
+INHERIT=git-r3
 LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=net-proxy/c-icap app-antivirus/clamav app-arch/libarchive
 SLOT=0
-_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da	gnuconfig	262062cef0ba4f22b397193da514a350	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	libtool	241a8f577b9781a42a7421e53448a44e	autotools	c7052b276346587968d52ea8eaf5aca1
-_md5_=df5554dbea8d7fb1700bb7b3b50e64e7
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=7072c8f0e003bae713744660f3ff955f
