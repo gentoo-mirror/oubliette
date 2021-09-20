@@ -1,5 +1,7 @@
 acct-group/cicap 0-r1: System group: cicap
+acct-group/dhcp-fwd 0: System group: dhcp-fwd
 acct-user/cicap 0-r1: user for c-icap-server
+acct-user/dhcp-fwd 0: DHCP Forwarder
 app-misc/cmatrix 1.2a-r4: An ncurses based app to show a scrolling screen from the Matrix
 dev-perl/Data-Entropy 0.7.0-r1: entropy (randomness) management
 dev-perl/HTTP-Lite 2.440.0: Lightweight HTTP implementation
