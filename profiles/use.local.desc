@@ -14,7 +14,7 @@ net-vpn/openvpn:openssl - Use OpenSSL as the backend crypto library
 net-vpn/openvpn:pkcs11 - Enable PKCS#11 smartcard support
 net-vpn/openvpn:plugins - Enable the OpenVPN plugin system
 www-apps/gitea:acct - User and group management via acct-*/git packages
-www-apps/gitea:build-client - Build the client code, instead of using a precompiled one
+www-apps/gitea:build-client - Build the JavaScript and CSS client code, instead of using a precompiled one
 www-misc/zoneminder:curl - Enable using net-misc/curl for streaming from cameras
 www-misc/zoneminder:gcrypt - ...
 www-misc/zoneminder:vlc - Enable using media-libs/vlc for streaming from cameras
