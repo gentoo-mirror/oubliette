@@ -26,5 +26,5 @@ net-vpn/openvpn 2.5.3: Robust and highly flexible tunneling application compatib
 sys-auth/pam_radius 1.4.0 2.0.0 9999: PAM RADIUS authentication module
 sys-fs/dislocker 0.7.3 9999: Dislocker is used to read BitLocker encrypted partitions
 www-apps/gitea 1.15.4: A painless self-hosted Git service
-www-misc/zoneminder 1.36.10 9999: full-featured, open source, state-of-the-art video surveillance software system
+www-misc/zoneminder 1.36.10 1.36.11 9999: full-featured, open source, state-of-the-art video surveillance software system
 x11-misc/alock 9999: Simple screen lock application for X server
