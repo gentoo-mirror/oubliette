@@ -4,14 +4,6 @@
 
 net-analyzer/smokeping:dig - Install net-dns/bind-tools for dig functionality
 net-analyzer/smokeping:echoping - Install net-analyzer/echoping for echoping functionality
-net-libs/nodejs:inspector - Enable V8 inspector
-net-libs/nodejs:lto - Build with link-time optimisation
-net-libs/nodejs:npm - Enable NPM package manager
-net-libs/nodejs:pax-kernel - Enable building under a PaX enabled kernel
-net-libs/nodejs:snapshot - Enable snapshot creation for faster startup
-net-libs/nodejs:system-icu - Use system dev-libs/icu instead of the bundled version
-net-libs/nodejs:system-ssl - Use system OpenSSL instead of the bundled one
-net-libs/nodejs:systemtap - Enable SystemTAP/DTrace tracing
 net-misc/dhcp-fwd:diet - compiles with diet libc
 net-misc/dhcp-fwd:logging - compiles with logging support
 net-proxy/c-icap:logrotate - Install logrotate.d file

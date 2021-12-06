@@ -17,7 +17,6 @@ dev-tcltk/thread 2.8.5: Tcl Thread extension
 dev-tcltk/udp 9999: provides UDP sockets for Tcl
 games-roguelike/evilhack 0.7.0 9999: NetHack 3.6 variant features GruntHack, SporkHack and others with custom content
 net-analyzer/smokeping 2.7.3-r2 2.8.2: A powerful latency measurement tool
-net-libs/nodejs 16.13.0: A JavaScript runtime built on Chrome's V8 JavaScript engine
 net-misc/dhcp-fwd 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
 net-misc/postman-bin 8.11.1: Supercharge your API workflow
 net-proxy/c-icap 0.5.9 9999: an implementation of an ICAP server written in C
@@ -26,6 +25,6 @@ net-proxy/squidclamav 7.1 9999: SquidClamAv is a dedicated ClamAV antivirus redi
 net-vpn/openvpn 2.5.3: Robust and highly flexible tunneling application compatible with many OSes
 sys-auth/pam_radius 1.4.0 2.0.0 9999: PAM RADIUS authentication module
 sys-fs/dislocker 0.7.3 9999: Dislocker is used to read BitLocker encrypted partitions
-www-apps/gitea 1.15.4: A painless self-hosted Git service
+www-apps/gitea 1.15.7: A painless self-hosted Git service
 www-misc/zoneminder 1.36.10 1.36.11 9999: full-featured, open source, state-of-the-art video surveillance software system
 x11-misc/alock 9999: Simple screen lock application for X server
