@@ -24,7 +24,7 @@ net-proxy/c-icap-modules 0.5.4 9999: an implementation of an ICAP server written
 net-proxy/squidclamav 7.1 9999: SquidClamAv is a dedicated ClamAV antivirus redirector for Squid
 net-vpn/openvpn 2.5.3: Robust and highly flexible tunneling application compatible with many OSes
 sys-auth/pam_radius 1.4.0 2.0.0 9999: PAM RADIUS authentication module
-sys-cluster/keepalived 2.0.10: A strong & robust keepalive facility to the Linux Virtual Server project
+sys-cluster/keepalived 2.0.10-r1: A strong & robust keepalive facility to the Linux Virtual Server project
 sys-fs/dislocker 0.7.3 9999: Dislocker is used to read BitLocker encrypted partitions
 www-apps/gitea 1.15.7: A painless self-hosted Git service
 www-misc/zoneminder 1.36.10 1.36.11 9999: full-featured, open source, state-of-the-art video surveillance software system
