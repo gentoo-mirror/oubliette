@@ -13,6 +13,9 @@ net-vpn/openvpn:mbedtls - Use mbed TLS as the backend crypto library
 net-vpn/openvpn:openssl - Use OpenSSL as the backend crypto library
 net-vpn/openvpn:pkcs11 - Enable PKCS#11 smartcard support
 net-vpn/openvpn:plugins - Enable the OpenVPN plugin system
+sys-cluster/keepalived:bfd - compile with support for Bidirectional Forwarding Detection (BFD).
+sys-cluster/keepalived:json - compile with signal to dump configuration and stats as JSON.
+sys-cluster/keepalived:regex - compile with support for regex in health checks
 www-apps/gitea:acct - User and group management via acct-*/git packages
 www-apps/gitea:build-client - Build the JavaScript and CSS client code, instead of using a precompiled one
 www-misc/zoneminder:curl - Enable using net-misc/curl for streaming from cameras
