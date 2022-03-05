@@ -9,6 +9,7 @@ dev-perl/Data-Entropy 0.7.0-r1: entropy (randomness) management
 dev-perl/HTTP-Lite 2.440.0: Lightweight HTTP implementation
 dev-perl/X10 0.04: Perl X10 module
 dev-perl/X11-Protocol-Other 31: Miscellaneous helpers for X11::Protocol connections
+dev-perl/ZMQ-Constants 1.04: Constants for libzmq
 dev-perl/ZMQ-LibZMQ3 1.19: A libzmq 3.x wrapper for Perl
 dev-tcltk/tdbc 1.1.2: Tcl Database Connectivity Core
 dev-tcltk/tdbcmysql 1.1.2: Tcl Database Connectivity MySQL Driver
