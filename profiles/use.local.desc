@@ -2,13 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-mail-filter/amavisd-new:courier - Add courier support
-mail-filter/amavisd-new:dkim - Add DomainKeys Identified Mail support
-mail-filter/amavisd-new:qmail - Add qmail support
-mail-filter/amavisd-new:razor - Add support for mail-filter/razor
-mail-filter/amavisd-new:rspamd - Add support for mail-filter/rspamd extension (HTTP only)
-mail-filter/amavisd-new:rspamd-https - Add support for mail-filter/rspamd extension (both HTTP and HTTPS)
-mail-filter/amavisd-new:spamassassin - Add support for mail-filter/spamassassin
 mail-filter/dcc:rrdtool - Enable net-analyzer/rrdtool interface scripts
 mail-filter/opendmarc:reports - Install the reports binaries: expire, import, reports, params
 mail-filter/opendmarc:spf - Use the mail-filter/libspf2 for Sender Policy Framework checking
