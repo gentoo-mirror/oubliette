@@ -32,5 +32,4 @@ sys-auth/pam_radius 1.4.0 2.0.0 9999: PAM RADIUS authentication module
 sys-fs/dislocker 0.7.3 9999: Dislocker is used to read BitLocker encrypted partitions
 www-apps/gitea 1.15.10 1.16.3: A painless self-hosted Git service
 www-misc/zoneminder 1.36.12 1.36.12-r1 9999: full-featured, open source, state-of-the-art video surveillance software system
-x11-libs/gtk+ 3.24.29: Gimp ToolKit +
 x11-misc/alock 9999: Simple screen lock application for X server
