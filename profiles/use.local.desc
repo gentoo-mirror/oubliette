@@ -21,4 +21,8 @@ www-apps/gitea:build-client - Build the JavaScript and CSS client code, instead 
 www-misc/zoneminder:curl - Enable using net-misc/curl for streaming from cameras
 www-misc/zoneminder:gcrypt - ...
 www-misc/zoneminder:vlc - Enable using media-libs/vlc for streaming from cameras
+x11-libs/gtk+:broadway - Enable the GDK Broadway backend.
+x11-libs/gtk+:cloudprint - Enable printing via Google Cloud Print.
+x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
+x11-libs/gtk+:sysprof - Enable profiling data capture support using dev-util/sysprof-capture
 x11-misc/alock:xbacklight - Build with x11-apps/xbacklight.
