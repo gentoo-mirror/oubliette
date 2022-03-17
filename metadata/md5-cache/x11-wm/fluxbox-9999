@@ -13,4 +13,4 @@ RDEPEND=bidi? ( >=dev-libs/fribidi-0.19.2 ) imlib? ( >=media-libs/imlib2-1.2.0[X
 REQUIRED_USE=systray? ( toolbar )
 SLOT=0
 _eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	flag-o-matic	a500d7cc40da3de38c361e889153bdf7	prefix	d04f14b297013ad1410550c0757f14f8	xdg-utils	4f29a8b760a594a212abe9c2ba957c31	xdg	6024fbc93167fad782e2032933654857	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da	gnuconfig	262062cef0ba4f22b397193da514a350	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6cc26735fa9dd59e8c62880beda05b6e
-_md5_=1311397bb4d433b5e6e1c22bab227f43
+_md5_=bbfa45ce5d191dad18808993a8af839d
