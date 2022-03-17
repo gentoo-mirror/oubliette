@@ -33,3 +33,4 @@ sys-fs/dislocker 0.7.3 9999: Dislocker is used to read BitLocker encrypted parti
 www-apps/gitea 1.15.10 1.16.3: A painless self-hosted Git service
 www-misc/zoneminder 1.36.12 1.36.12-r1 9999: full-featured, open source, state-of-the-art video surveillance software system
 x11-misc/alock 9999: Simple screen lock application for X server
+x11-wm/fluxbox 9999: X11 window manager featuring tabs and an iconbar
