@@ -9,6 +9,7 @@ DESCRIPTION="Open source ARC implementation"
 HOMEPAGE="https://github.com/trusteddomainproject/OpenARC"
 if [[ ${PV} == 9999 ]]; then
 	inherit git-r3
+	EGIT_BRANCH="develop"
 	EGIT_REPO_URI="https://github.com/trusteddomainproject/OpenARC.git"
 else
 	SRC_URI="https://github.com/trusteddomainproject/OpenARC/archive/rel-${PN}-${PV//./-}.tar.gz -> ${P}.tar.gz"
@@ -26,7 +27,6 @@ RDEPEND="${DEPEND}
 	acct-user/openarc"
 
 PATCHES=(
-	"${FILESDIR}/openarc-issue52.patch"
 	"${FILESDIR}/openarc-issue137.patch"
 )
 
@@ -57,7 +57,7 @@ src_install() {
 		-e "s:^# PidFile\s.*:PidFile ${EPREFIX}/var/run/openarc/openarc.pid:" \
 		-e 's/^Socket\s.*/Socket inet:8895@localhost/' \
 		-e "s:^KeyFile\s.*:KeyFile ${EPREFIX}/etc/openarc/example.private:" \
-		-e "s:^# InternalHosts\s.*:InternalHosts refile\:${EPREFIX}/etc/openarc/internalhosts:" \
+		-e "s:^# InternalHosts\s.*:InternalHosts ${EPREFIX}/etc/openarc/internalhosts:" \
 		"${S}"/openarc/openarc.conf.sample \
 		> "${ED}"/etc/openarc/openarc.conf \
 		|| die
