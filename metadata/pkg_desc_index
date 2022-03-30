@@ -1,12 +1,12 @@
 acct-group/cicap 0-r1: System group: cicap
 acct-group/dcc 0-r1: System group: dcc
 acct-group/dhcp-fwd 0: System group: dhcp-fwd
-acct-group/dkimpy 0: System group: dkimpy
+acct-group/dkimpy-milter 0: System group: dkimpy-milter
 acct-group/openarc 0: Group for mail-filter/openarc
 acct-user/cicap 0-r1: user for c-icap-server
 acct-user/dcc 0-r1: Distributed Checksum Clearinghouses
 acct-user/dhcp-fwd 0: DHCP Forwarder
-acct-user/dkimpy 0: User for mail-filter/dkimpy-milter
+acct-user/dkimpy-milter 0: User for mail-filter/dkimpy-milter
 acct-user/openarc 0: User for mail-filter/openarc
 app-misc/cmatrix 1.2a-r4: An ncurses based app to show a scrolling screen from the Matrix
 dev-perl/Data-Entropy 0.7.0-r1: entropy (randomness) management
