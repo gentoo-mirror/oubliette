@@ -24,7 +24,7 @@ dev-tcltk/thread 2.8.5: Tcl Thread extension
 dev-tcltk/udp 9999: provides UDP sockets for Tcl
 games-roguelike/evilhack 0.7.0 9999: NetHack 3.6 variant features GruntHack, SporkHack and others with custom content
 mail-filter/dcc 2.3.168: Distributed Checksum Clearinghouse
-mail-filter/dkimpy-milter 1.2.2: Milter for dkimpy; DKIM and ARC email signing and verification
+mail-filter/dkimpy-milter 1.2.2: Milter for dkimpy; DKIM signing and verification
 mail-filter/openarc 9999: Open source ARC implementation
 mail-filter/opendkim 9999: A milter providing DKIM signing and verification
 mail-filter/opendmarc 1.4.2: Open source DMARC implementation
