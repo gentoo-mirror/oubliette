@@ -9,8 +9,6 @@ acct-user/dhcp-fwd 0: DHCP Forwarder
 acct-user/dkimpy-milter 0: User for mail-filter/dkimpy-milter
 acct-user/openarc 0: User for mail-filter/openarc
 app-misc/cmatrix 1.2a-r4: An ncurses based app to show a scrolling screen from the Matrix
-dev-perl/Data-Entropy 0.7.0-r1: entropy (randomness) management
-dev-perl/HTTP-Lite 2.440.0: Lightweight HTTP implementation
 dev-perl/X10 0.04: Perl X10 module
 dev-perl/X11-Protocol-Other 31: Miscellaneous helpers for X11::Protocol connections
 dev-perl/ZMQ-LibZMQ3 1.19: A libzmq 3.x wrapper for Perl
