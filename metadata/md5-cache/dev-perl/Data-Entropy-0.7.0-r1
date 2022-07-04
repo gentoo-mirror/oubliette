@@ -1,0 +1,15 @@
+BDEPEND=dev-lang/perl test? ( virtual/perl-Test-Simple )
+DEFINED_PHASES=compile configure install prepare test
+DEPEND=dev-perl/Crypt-Rijndael >=dev-perl/Data-Float-0.8.0 >=dev-perl/HTTP-Lite-2.200.0 >=virtual/perl-IO-1.03 dev-perl/Params-Classify virtual/perl-parent dev-perl/Module-Build dev-perl/Crypt-Rijndael >=dev-perl/Data-Float-0.8.0 >=virtual/perl-IO-1.03 dev-perl/Module-Build virtual/perl-Test-Simple dev-lang/perl
+DESCRIPTION=entropy (randomness) management
+EAPI=8
+HOMEPAGE=https://metacpan.org/release/Data-Entropy
+INHERIT=perl-module
+IUSE=test
+KEYWORDS=~amd64 ~x86
+LICENSE=|| ( Artistic GPL-1+ )
+RDEPEND=dev-perl/Crypt-Rijndael >=dev-perl/Data-Float-0.8.0 >=dev-perl/HTTP-Lite-2.200.0 >=virtual/perl-IO-1.03 dev-perl/Params-Classify virtual/perl-parent dev-lang/perl:=
+RESTRICT=!test? ( test )
+SLOT=0
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	perl-functions	95b2df43c5f3057b6e77bd00b4d953da	readme.gentoo-r1	b776ad4b42f564c406a95c41ccb42c55	perl-module	f2c1b0dd41761ffc8441cd041e4bb7ec
+_md5_=560553aa011f4b52c65ddfd1e4195df8
