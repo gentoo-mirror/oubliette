@@ -23,6 +23,7 @@ mail-filter/opendmarc:reports - Install the reports binaries: expire, import, re
 mail-filter/opendmarc:spf - Use the mail-filter/libspf2 for Sender Policy Framework checking
 net-analyzer/smokeping:dig - Install net-dns/bind-tools for dig functionality
 net-analyzer/smokeping:echoping - Install net-analyzer/echoping for echoping functionality
+net-analyzer/zeek:btest - Enable packages systems tests using BTest
 net-analyzer/zeek:caf - Build against external C++ Actor Framework (for development only)
 net-analyzer/zeek:geoip2 - Enable support for Maxmind's GeoIP library
 net-analyzer/zeek:ipsumdump - Enables ipsumdump support for trace-summary
