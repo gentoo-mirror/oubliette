@@ -2,6 +2,12 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+dev-libs/caf:debug - Raises log-level to DEBUG, enables runtime checks and address sanitizer
+dev-libs/caf:doc - Compiles and installs the documentation as PDF and HTML
+dev-libs/caf:examples - Compiles and installs the provided example binaries and sources
+dev-libs/caf:openssl - Use dev-libs/openssl to provide support communication over TLS
+dev-libs/caf:test - Builds the provided unit tests
+dev-libs/caf:tools - Builds caf-run and caf-vec tools
 mail-filter/dcc:rrdtool - Enable net-analyzer/rrdtool interface scripts
 mail-filter/opendkim:ldap - Enable openldap as a dataset facilitator or keys, determining domains to sign for, and any other dataset that opendkim supports.
 mail-filter/opendkim:lmdb - Add support for using dev-db/lmdb
@@ -17,6 +23,14 @@ mail-filter/opendmarc:reports - Install the reports binaries: expire, import, re
 mail-filter/opendmarc:spf - Use the mail-filter/libspf2 for Sender Policy Framework checking
 net-analyzer/smokeping:dig - Install net-dns/bind-tools for dig functionality
 net-analyzer/smokeping:echoping - Install net-analyzer/echoping for echoping functionality
+net-analyzer/zeek:caf - Build against external C++ Actor Framework (for development only)
+net-analyzer/zeek:geoip2 - Enable support for Maxmind's GeoIP library
+net-analyzer/zeek:ipsumdump - Enables ipsumdump support for trace-summary
+net-analyzer/zeek:python - Enable Python bindings for broker
+net-analyzer/zeek:sendmail - Enables Zeek and ZeekControl to send mail
+net-analyzer/zeek:tcmalloc - Enable Google's performance analysis tools
+net-analyzer/zeek:tools - Auxiliary tools for Bro: adtrace, zeek-cut, rst
+net-analyzer/zeek:zeekctl - Enable ZeekControl, a tool for operating Zeek installations
 net-misc/dhcp-fwd:diet - compiles with diet libc
 net-misc/dhcp-fwd:logging - compiles with logging support
 net-proxy/c-icap:logrotate - Install logrotate.d file
