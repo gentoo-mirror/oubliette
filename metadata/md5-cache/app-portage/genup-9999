@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DEPEND=app-portage/eix app-portage/gentoolkit
+DESCRIPTION=Update Portage tree, all installed packages, and kernel
+EAPI=8
+HOMEPAGE=https://github.com/nabbi/genup
+INHERIT=git-r3
+LICENSE=GPL-3
+PROPERTIES=live
+RESTRICT=mirror
+SLOT=0
+_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
+_md5_=b4a5f6936aae9f75721f7048c0b92aa0
