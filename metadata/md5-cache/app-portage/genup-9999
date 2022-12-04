@@ -1,5 +1,5 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=install unpack
+DEFINED_PHASES=install prepare unpack
 DEPEND=app-portage/eix app-portage/gentoolkit app-portage/portage-utils
 DESCRIPTION=Update Portage tree, all installed packages, and kernel
 EAPI=8
@@ -10,4 +10,4 @@ PROPERTIES=live
 RESTRICT=mirror
 SLOT=0
 _eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=6d26c7dd983e92393eef12defe510c5a
+_md5_=ab92f101a0e7f3335123ed94872ce9c1
