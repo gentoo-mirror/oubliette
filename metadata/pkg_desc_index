@@ -29,7 +29,6 @@ dev-tcltk/thread 2.8.5: Tcl Thread extension
 dev-tcltk/udp 9999: provides UDP sockets for Tcl
 games-roguelike/evilhack 0.7.0 9999: NetHack 3.6 variant features GruntHack, SporkHack and others with custom content
 mail-filter/dcc 2.3.168: Distributed Checksum Clearinghouse
-mail-filter/dkimpy-milter 1.2.2: Milter for dkimpy; DKIM signing and verification
 mail-filter/openarc 9999: Open source ARC implementation
 mail-filter/opendkim 9999: A milter providing DKIM signing and verification
 mail-filter/opendmarc 1.4.2: Open source DMARC implementation
@@ -37,13 +36,12 @@ mail-filter/postgrey 9999: Postgrey is a Postfix policy server implementing grey
 net-analyzer/smokeping 2.7.3-r2 2.8.2: A powerful latency measurement tool
 net-analyzer/zeek 5.0.4 5.1.1 9999: The Zeek Network Security Monitor
 net-misc/dhcp-fwd 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
-net-misc/postman-bin 8.11.1: Supercharge your API workflow
 net-proxy/c-icap 0.5.9 9999: an implementation of an ICAP server written in C
 net-proxy/c-icap-modules 0.5.4 9999: an implementation of an ICAP server written in C
 net-proxy/squidclamav 7.1 7.2 9999: SquidClamAv is a dedicated ClamAV antivirus redirector for Squid
 net-vpn/openvpn 2.5.3: Robust and highly flexible tunneling application compatible with many OSes
 sys-auth/pam_radius 1.4.0 2.0.0 9999: PAM RADIUS authentication module
 sys-fs/dislocker 0.7.3 9999: Dislocker is used to read BitLocker encrypted partitions
-www-misc/zoneminder 1.36.31 1.36.32 1.36.32-r1 1.36.9999 9999: full-featured, open source, state-of-the-art video surveillance software system
+www-misc/zoneminder 1.36.32 1.36.32-r1 1.36.9999 9999: full-featured, open source, state-of-the-art video surveillance software system
 x11-misc/alock 2.5.1 9999: Simple screen lock application for X server
 x11-wm/fluxbox 9999: X11 window manager featuring tabs and an iconbar
