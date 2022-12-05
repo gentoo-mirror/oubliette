@@ -35,7 +35,7 @@ mail-filter/opendkim 9999: A milter providing DKIM signing and verification
 mail-filter/opendmarc 1.4.2: Open source DMARC implementation
 mail-filter/postgrey 9999: Postgrey is a Postfix policy server implementing greylisting
 net-analyzer/smokeping 2.7.3-r2 2.8.2: A powerful latency measurement tool
-net-analyzer/zeek 5.0.3 5.1.0 9999: The Zeek Network Security Monitor
+net-analyzer/zeek 5.0.4 5.1.1 9999: The Zeek Network Security Monitor
 net-misc/dhcp-fwd 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
 net-misc/postman-bin 8.11.1: Supercharge your API workflow
 net-proxy/c-icap 0.5.9 9999: an implementation of an ICAP server written in C
