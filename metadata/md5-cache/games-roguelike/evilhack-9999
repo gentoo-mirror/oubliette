@@ -9,5 +9,5 @@ LICENSE=nethack
 PROPERTIES=live
 RDEPEND=acct-group/gamestat sys-libs/ncurses:0= sys-devel/gdb
 SLOT=0
-_eclasses_=toolchain-funcs	9a610728b9bcca1919234cceb35a1027	multilib	5ca4e49abed8e3a2f7b56920eadee157	flag-o-matic	69394e25812406faa1f90edaf4969395	git-r3	2347f8fe2d392b2a091191f94be37e6f
+_eclasses_=toolchain-funcs	cf009a3ed4e5bef503e7a9f215791a78	multilib	5ca4e49abed8e3a2f7b56920eadee157	flag-o-matic	69394e25812406faa1f90edaf4969395	git-r3	2347f8fe2d392b2a091191f94be37e6f
 _md5_=2f84892feb7f2e2c3571b08b39d2dc1a
