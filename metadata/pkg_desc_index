@@ -11,14 +11,14 @@ acct-user/openarc 0: User for mail-filter/openarc
 app-containers/docker-buildx 0.9.1: Docker CLI plugin for extended build capabilities with BuildKit
 app-misc/cmatrix 1.2a-r4: An ncurses based app to show a scrolling screen from the Matrix
 app-portage/genup 9999: Update Portage tree, all installed packages, and kernel
-dev-libs/caf 0.18.6 0.19.2: The C++ Actor Framework (CAF)
+dev-libs/caf 0.19.2: The C++ Actor Framework (CAF)
 dev-perl/Data-Entropy 0.7.0-r1: entropy (randomness) management
 dev-perl/HTTP-Lite 2.44: Lightweight HTTP implementation
 dev-perl/X10 0.04: Perl X10 module
 dev-perl/X11-Protocol-Other 31: Miscellaneous helpers for X11::Protocol connections
 dev-perl/ZMQ-LibZMQ3 1.19: A libzmq 3.x wrapper for Perl
 dev-php/phpunit 9.5.21: A PHP Unit Testing framework
-dev-python/btest 0.72: BTest is a powerful framework for writing system tests.
+dev-python/btest 0.72 1.0: BTest is a powerful framework for writing system tests.
 dev-tcltk/tdbc 1.1.2: Tcl Database Connectivity Core
 dev-tcltk/tdbcmysql 1.1.2: Tcl Database Connectivity MySQL Driver
 dev-tcltk/tdbcodbc 1.1.2: Tcl Database Connectivity ODBC Driver
@@ -39,7 +39,6 @@ net-misc/dhcp-fwd 0.11: Forwards DHCP messages between subnets with different su
 net-proxy/c-icap 0.5.9 9999: an implementation of an ICAP server written in C
 net-proxy/c-icap-modules 0.5.4 9999: an implementation of an ICAP server written in C
 net-proxy/squidclamav 7.1 7.2 9999: SquidClamAv is a dedicated ClamAV antivirus redirector for Squid
-net-vpn/openvpn 2.5.3: Robust and highly flexible tunneling application compatible with many OSes
 sys-auth/pam_radius 1.4.0 2.0.0 9999: PAM RADIUS authentication module
 sys-fs/dislocker 0.7.3 9999: Dislocker is used to read BitLocker encrypted partitions
 www-misc/zoneminder 1.36.32 1.36.32-r1 1.36.33 1.36.9999 9999: full-featured, open source, state-of-the-art video surveillance software system

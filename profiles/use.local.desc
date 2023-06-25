@@ -35,12 +35,6 @@ net-analyzer/zeek:zeekctl - Enable ZeekControl, a tool for operating Zeek instal
 net-misc/dhcp-fwd:diet - compiles with diet libc
 net-misc/dhcp-fwd:logging - compiles with logging support
 net-proxy/c-icap:logrotate - Install logrotate.d file
-net-vpn/openvpn:down-root - Enable the down-root plugin
-net-vpn/openvpn:iproute2 - Enabled iproute2 support instead of net-tools
-net-vpn/openvpn:mbedtls - Use mbed TLS as the backend crypto library
-net-vpn/openvpn:openssl - Use OpenSSL as the backend crypto library
-net-vpn/openvpn:pkcs11 - Enable PKCS#11 smartcard support
-net-vpn/openvpn:plugins - Enable the OpenVPN plugin system
 www-misc/zoneminder:curl - Enable using net-misc/curl for streaming from cameras
 www-misc/zoneminder:gcrypt - ...
 www-misc/zoneminder:vlc - Enable using media-libs/vlc for streaming from cameras
