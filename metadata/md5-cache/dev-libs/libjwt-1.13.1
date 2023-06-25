@@ -1,0 +1,16 @@
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7
+DEFINED_PHASES=configure install prepare
+DEPEND=ssl? ( >=dev-libs/openssl-0.9.8:0= ) gnutls? ( >=net-libs/gnutls-3.5.8:0= ) dev-libs/jansson
+DESCRIPTION=JWT C Library
+EAPI=8
+HOMEPAGE=https://github.com/benmcollins/libjwt
+INHERIT=autotools
+IUSE=gnutls ssl
+KEYWORDS=~amd64 ~x86
+LICENSE=MPL-2.0
+RDEPEND=ssl? ( >=dev-libs/openssl-0.9.8:0= ) gnutls? ( >=net-libs/gnutls-3.5.8:0= )
+REQUIRED_USE=|| ( ssl gnutls )
+SLOT=0
+SRC_URI=https://github.com/benmcollins/libjwt/archive/refs/tags/v1.13.1.tar.gz -> libjwt-1.13.1.tar.gz
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde
+_md5_=58c0d7fb29c0d7af1c956dcb79a979a3

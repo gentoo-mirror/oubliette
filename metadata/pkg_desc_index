@@ -12,6 +12,7 @@ app-containers/docker-buildx 0.9.1: Docker CLI plugin for extended build capabil
 app-misc/cmatrix 1.2a-r4: An ncurses based app to show a scrolling screen from the Matrix
 app-portage/genup 9999: Update Portage tree, all installed packages, and kernel
 dev-libs/caf 0.19.2: The C++ Actor Framework (CAF)
+dev-libs/libjwt 1.13.1 1.15.3: JWT C Library
 dev-perl/Data-Entropy 0.7.0-r1: entropy (randomness) management
 dev-perl/HTTP-Lite 2.44: Lightweight HTTP implementation
 dev-perl/X10 0.04: Perl X10 module
@@ -42,5 +43,7 @@ net-proxy/squidclamav 7.1 7.2 9999: SquidClamAv is a dedicated ClamAV antivirus 
 sys-auth/pam_radius 1.4.0 2.0.0 9999: PAM RADIUS authentication module
 sys-fs/dislocker 0.7.3 9999: Dislocker is used to read BitLocker encrypted partitions
 www-misc/zoneminder 1.36.32 1.36.32-r1 1.36.33 1.36.9999 9999: full-featured, open source, state-of-the-art video surveillance software system
+www-servers/multiwatch 1.0.0: Forks multiple instances of a program in the same context (spawn-fcgi)
+www-servers/spawn-fcgi 1.6.5: A FCGI spawner for lighttpd and cherokee and other webservers
 x11-misc/alock 2.5.1 9999: Simple screen lock application for X server
 x11-wm/fluxbox 9999: X11 window manager featuring tabs and an iconbar
