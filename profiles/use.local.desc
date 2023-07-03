@@ -35,8 +35,10 @@ net-analyzer/zeek:zeekctl - Enable ZeekControl, a tool for operating Zeek instal
 net-misc/dhcp-fwd:diet - compiles with diet libc
 net-misc/dhcp-fwd:logging - compiles with logging support
 net-proxy/c-icap:logrotate - Install logrotate.d file
+www-misc/zoneminder:apache2 - Use www-servers/apache2 as web server (and user:group)
 www-misc/zoneminder:curl - Enable using net-misc/curl for streaming from cameras
 www-misc/zoneminder:gcrypt - ...
+www-misc/zoneminder:nginx - Use www-servers/nginx as web server (and user:group)
 www-misc/zoneminder:vlc - Enable using media-libs/vlc for streaming from cameras
 x11-misc/alock:xbacklight - Build with x11-apps/xbacklight.
 x11-wm/fluxbox:slit - Enables the Fluxbox slit (or dock)
