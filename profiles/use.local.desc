@@ -34,6 +34,12 @@ net-analyzer/zeek:tools - Auxiliary tools for Bro: adtrace, zeek-cut, rst
 net-analyzer/zeek:zeekctl - Enable ZeekControl, a tool for operating Zeek installations
 net-misc/dhcp-fwd:diet - compiles with diet libc
 net-misc/dhcp-fwd:logging - compiles with logging support
+net-misc/frr:fpm - Enable Forwarding Plane Manager support
+net-misc/frr:grpc - Enable gRPC plugin
+net-misc/frr:nhrp - Build Next Hop Resolution Protocol daemon
+net-misc/frr:ospfapi - Build OSPFAPI support
+net-misc/frr:pam - Add support for PAM (via sys-libs/pam) to the Virtual Terminal Interface Shell (vtysh)
+net-misc/frr:rpki - Enable RPKI
 net-proxy/c-icap:logrotate - Install logrotate.d file
 www-misc/zoneminder:apache2 - Use www-servers/apache2 as web server (and user:group)
 www-misc/zoneminder:curl - Enable using net-misc/curl for streaming from cameras
