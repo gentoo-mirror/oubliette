@@ -14,7 +14,7 @@ app-containers/docker-buildx 0.9.1: Docker CLI plugin for extended build capabil
 app-misc/cmatrix 1.2a-r4: An ncurses based app to show a scrolling screen from the Matrix
 app-portage/genup 9999: Update Portage tree, all installed packages, and kernel
 dev-libs/caf 0.19.2: The C++ Actor Framework (CAF)
-dev-libs/libjwt 1.13.1 1.15.3: JWT C Library
+dev-libs/libjwt 1.13.1 1.15.3 9999: JWT C Library
 dev-perl/Data-Entropy 0.7.0-r1: entropy (randomness) management
 dev-perl/HTTP-Lite 2.44: Lightweight HTTP implementation
 dev-perl/X10 0.04: Perl X10 module
