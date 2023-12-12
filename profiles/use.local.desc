@@ -8,6 +8,7 @@ dev-libs/caf:examples - Compiles and installs the provided example binaries and 
 dev-libs/caf:openssl - Use dev-libs/openssl to provide support communication over TLS
 dev-libs/caf:test - Builds the provided unit tests
 dev-libs/caf:tools - Builds caf-run and caf-vec tools
+dev-libs/libjwt:openssl - Use openssl libs for crypto functions
 mail-filter/dcc:rrdtool - Enable net-analyzer/rrdtool interface scripts
 mail-filter/opendkim:ldap - Enable openldap as a dataset facilitator or keys, determining domains to sign for, and any other dataset that opendkim supports.
 mail-filter/opendkim:lmdb - Add support for using dev-db/lmdb

@@ -1,15 +1,16 @@
 BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7 >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=configure install prepare unpack
-DEPEND=ssl? ( >=dev-libs/openssl-0.9.8:0= ) gnutls? ( >=net-libs/gnutls-3.5.8:0= ) dev-libs/jansson
+DEPEND=dev-libs/jansson openssl? ( >=dev-libs/openssl-0.9.8:= ) gnutls? ( >=net-libs/gnutls-3.6.0:= ) test? ( dev-libs/check )
 DESCRIPTION=JWT C Library
 EAPI=8
 HOMEPAGE=https://github.com/benmcollins/libjwt
 INHERIT=autotools git-r3
-IUSE=gnutls ssl
+IUSE=gnutls +openssl test
 LICENSE=MPL-2.0
 PROPERTIES=live
-RDEPEND=ssl? ( >=dev-libs/openssl-0.9.8:0= ) gnutls? ( >=net-libs/gnutls-3.5.8:0= )
-REQUIRED_USE=|| ( ssl gnutls )
+RDEPEND=dev-libs/jansson openssl? ( >=dev-libs/openssl-0.9.8:= ) gnutls? ( >=net-libs/gnutls-3.6.0:= )
+REQUIRED_USE=|| ( openssl gnutls )
+RESTRICT=!test? ( test )
 SLOT=0
 _eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	git-r3	5133e393e8717a3a093660f990801dc1
-_md5_=6c01e7eead9665fd79f37a8c590b270c
+_md5_=ee8e984939c2537ad98fc254b3261cad
