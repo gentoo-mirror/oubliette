@@ -28,6 +28,7 @@ net-analyzer/zeek:btest - Enable packages systems tests using BTest
 net-analyzer/zeek:caf - Build against external C++ Actor Framework (for development only)
 net-analyzer/zeek:geoip2 - Enable support for Maxmind's GeoIP library
 net-analyzer/zeek:ipsumdump - Enables ipsumdump support for trace-summary
+net-analyzer/zeek:nodejs - JavaScript runtime, optional for nodejs zeek scripts
 net-analyzer/zeek:python - Enable Python bindings for broker
 net-analyzer/zeek:sendmail - Enables Zeek and ZeekControl to send mail
 net-analyzer/zeek:tcmalloc - Enable Google's performance analysis tools
