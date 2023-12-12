@@ -20,7 +20,7 @@ dev-perl/HTTP-Lite 2.44: Lightweight HTTP implementation
 dev-perl/X10 0.04: Perl X10 module
 dev-perl/X11-Protocol-Other 31: Miscellaneous helpers for X11::Protocol connections
 dev-perl/ZMQ-LibZMQ3 1.19: A libzmq 3.x wrapper for Perl
-dev-python/btest 0.72 1.0: BTest is a powerful framework for writing system tests.
+dev-python/btest 0.72 1.0 1.1: BTest is a powerful framework for writing system tests.
 dev-tcltk/tdbc 1.1.2: Tcl Database Connectivity Core
 dev-tcltk/tdbcmysql 1.1.2: Tcl Database Connectivity MySQL Driver
 dev-tcltk/tdbcodbc 1.1.2: Tcl Database Connectivity ODBC Driver
