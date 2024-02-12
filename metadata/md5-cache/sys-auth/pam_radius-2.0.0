@@ -9,5 +9,5 @@ LICENSE=GPL-2+
 RDEPEND=sys-libs/pam
 SLOT=0
 SRC_URI=https://github.com/FreeRADIUS/pam_radius/archive/release_2_0_0.tar.gz
-_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	b2b07efa51009704f88173b2c7feab47	pam	b56d0c9c20fc5b553f13c8ae165a10a5
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	24c947ff5f858625cf0b33c15eed4425	pam	b56d0c9c20fc5b553f13c8ae165a10a5
 _md5_=1cc99f7f7c1a3947bf46a4f5af3bae0e
