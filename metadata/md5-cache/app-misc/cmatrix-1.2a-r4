@@ -10,6 +10,6 @@ KEYWORDS=~alpha amd64 ~hppa ~ppc ~ppc64 ~sparc ~x86
 LICENSE=GPL-2
 RDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 ) sys-libs/ncurses:0=
 SLOT=0
-SRC_URI=mirror://sourceforge/cmatrix/cmatrix-1.2a.tar.gz
+SRC_URI=https://downloads.sourceforge.net/cmatrix/cmatrix-1.2a.tar.gz
 _eclasses_=gnuconfig	a397adda6984a4c423e28ac274c1ba98	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	5f49a16f67f81bdf873e3d1f10b10001	autotools	dc70c1dc473b68317fc4a86f5fbfc57d	font	aa113a3df9cd0a9693a1c1ee7c34a6eb
-_md5_=4e514d1e08b4567e44b2e2c5faebfc1e
+_md5_=1850fb4d272aa8542333eba3355601e5
