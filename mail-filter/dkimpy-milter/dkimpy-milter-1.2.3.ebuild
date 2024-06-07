@@ -20,10 +20,12 @@ SLOT="0"
 KEYWORDS="~amd64 ~arm64 ~x86"
 
 RDEPEND="
+	acct-user/dkimpy-milter
 	>=dev-python/dnspython-2.0.0[${PYTHON_USEDEP}]
 	dev-python/dkimpy
 	dev-python/pycparser
 	dev-python/pymilter
+	dev-python/authres
 "
 BDEPEND="
 	test? (
@@ -33,6 +35,37 @@ BDEPEND="
 "
 
 distutils_enable_tests unittest
+
+python_install_all() {
+	distutils-r1_python_install_all
+
+	# installer placed files here, we use our own anyway
+	rm -r "${ED}"/usr/etc || die
+
+	#adjust systemd paths
+	sed -i \
+		-e 's:/usr/local/:/usr/:g' \
+		-e 's:/run/:/var/run/:g' \
+		"${ED}"/usr/lib/systemd/system/dkimpy-milter.service \
+		|| die
+
+	dodir /etc/dkimpy-milter
+
+	#adjust config
+	sed \
+		-e 's:/run/:/var/run/:g' \
+		"${S}"/etc/dkimpy-milter.conf \
+		> "${ED}"/etc/dkimpy-milter/dkimpy-milter.conf \
+		|| die
+
+	# init.d + conf.d files
+	insopts -o root -g root -m 755
+	newinitd "${FILESDIR}"/${PN}.initd ${PN}
+
+	insopts -o root -g root -m 640
+	newconfd "${FILESDIR}"/${PN}.confd ${PN}
+
+}
 
 pkg_postinst() {
 	optfeature "ed25519 capability" dev-python/pynacl
