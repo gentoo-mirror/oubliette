@@ -1,13 +1,15 @@
+BDEPEND=virtual/pkgconfig
 DEFINED_PHASES=configure install
-DEPEND=acct-user/dcc acct-group/dcc dev-lang/perl || ( net-ftp/ftp net-misc/curl net-misc/wget www-client/fetch ) milter? ( || ( mail-filter/libmilter mail-mta/sendmail ) ) rrdtool? ( net-analyzer/rrdtool )
+DEPEND=acct-user/dcc acct-group/dcc dev-lang/perl || ( net-ftp/ftp net-misc/curl net-misc/wget www-client/fetch ) milter? ( mail-filter/libmilter:= ) rrdtool? ( net-analyzer/rrdtool )
 DESCRIPTION=Distributed Checksum Clearinghouse
 EAPI=8
 HOMEPAGE=https://www.rhyolite.com/dcc/
-INHERIT=toolchain-funcs
+INHERIT=systemd toolchain-funcs
 IUSE=cgi ipv6 rrdtool milter
+KEYWORDS=~alpha amd64 arm ~arm64 ~hppa ~ia64 ppc ppc64 sparc x86
 LICENSE=DCC GPL-2
-RDEPEND=acct-user/dcc acct-group/dcc dev-lang/perl || ( net-ftp/ftp net-misc/curl net-misc/wget www-client/fetch ) milter? ( || ( mail-filter/libmilter mail-mta/sendmail ) ) rrdtool? ( net-analyzer/rrdtool )
+RDEPEND=acct-user/dcc acct-group/dcc dev-lang/perl || ( net-ftp/ftp net-misc/curl net-misc/wget www-client/fetch ) milter? ( mail-filter/libmilter:= ) rrdtool? ( net-analyzer/rrdtool )
 SLOT=0
 SRC_URI=https://www.rhyolite.com/dcc/source/old/dcc-2.3.169.tar.Z
-_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0
-_md5_=248b5017752445ae70576afa0466593e
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	systemd	c8b03e8df84486aa991d4396686e8942
+_md5_=680653922f9d5f6e8539eb992699935e
