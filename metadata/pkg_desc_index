@@ -40,7 +40,7 @@ net-proxy/c-icap-modules 0.5.4 9999: an implementation of an ICAP server written
 net-proxy/squidclamav 7.1 7.2 9999: SquidClamAv is a dedicated ClamAV antivirus redirector for Squid
 sys-auth/pam_radius 1.4.0 2.0.0 9999: PAM RADIUS authentication module
 sys-fs/dislocker 0.7.3 9999: Dislocker is used to read BitLocker encrypted partitions
-www-misc/zoneminder 1.36.32 1.36.32-r1 1.36.33 1.36.33-r1 1.36.34 1.36.9999 1.36.9999-r1 9999 9999-r1: full-featured, open source, state-of-the-art video surveillance software system
+www-misc/zoneminder 1.36.32 1.36.32-r1 1.36.33 1.36.33-r1 1.36.34 1.36.35 1.36.9999 1.36.9999-r1 9999 9999-r1: full-featured, open source, state-of-the-art video surveillance software system
 www-servers/multiwatch 1.0.0: Forks multiple instances of a program in the same context (spawn-fcgi)
 www-servers/spawn-fcgi 1.6.5: A FCGI spawner for lighttpd and cherokee and other webservers
 x11-misc/alock 2.5.1 9999: Simple screen lock application for X server
