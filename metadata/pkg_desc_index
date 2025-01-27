@@ -28,7 +28,6 @@ games-roguelike/evilhack 0.7.0 0.8.4 9999: NetHack 3.6 variant features GruntHac
 mail-filter/dcc 2.3.169: Distributed Checksum Clearinghouse
 mail-filter/dkimpy-milter 1.2.2 1.2.3: Domain Keys Identified Mail (DKIM) signing/verifying milter for Postfix/Sendmail
 mail-filter/openarc 9999: Open source ARC implementation
-mail-filter/opendkim 9999: A milter providing DKIM signing and verification
 mail-filter/opendmarc 1.4.2: Open source DMARC implementation
 mail-filter/postgrey 9999: Postgrey is a Postfix policy server implementing greylisting
 net-analyzer/smokeping 2.8.2: A powerful latency measurement tool
