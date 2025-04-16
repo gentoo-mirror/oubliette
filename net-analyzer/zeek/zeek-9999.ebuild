@@ -3,7 +3,7 @@
 
 EAPI=8
 
-PYTHON_COMPAT=( python3_{10..12} )
+PYTHON_COMPAT=( python3_{10..13} )
 inherit cmake python-single-r1
 
 DESCRIPTION="The Zeek Network Security Monitor"
@@ -43,7 +43,7 @@ RDEPEND="
 	tcmalloc? ( dev-util/google-perftools )
 	tools? (
 		dev-python/semantic-version
-		dev-python/GitPython )"
+		dev-python/gitpython )"
 
 DEPEND="${RDEPEND}"
 
