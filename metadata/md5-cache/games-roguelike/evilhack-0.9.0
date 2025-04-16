@@ -11,4 +11,4 @@ RDEPEND=acct-group/gamestat sys-libs/ncurses:0= dev-debug/gdb
 SLOT=0
 SRC_URI=https://github.com/k21971/EvilHack/archive/refs/tags/v0.9.0.tar.gz -> evilhack-0.9.0.tar.gz
 _eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	e8de74bac929ba17427e740e95707d00
-_md5_=a9f36794ab5e17741a73050c9112c234
+_md5_=582799a3108862679edbfb35b79237b5

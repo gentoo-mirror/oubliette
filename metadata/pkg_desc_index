@@ -24,7 +24,7 @@ dev-perl/ZMQ-LibZMQ3 1.19: A libzmq 3.x wrapper for Perl
 dev-python/btest 0.72 1.0 1.1: BTest is a powerful framework for writing system tests.
 dev-python/pymilter 1.0.5-r1: Python interface to sendmail milter API
 dev-util/clippy 8.5.3 9.0.1: Standalone clippy tool built from FRR sources
-games-roguelike/evilhack 0.7.0 0.8.4 0.9.0 9999: NetHack 3.6 variant features GruntHack, SporkHack and others with custom content
+games-roguelike/evilhack 0.9.0 9999: NetHack 3.6 variant features GruntHack, SporkHack and others with custom content
 mail-filter/dcc 2.3.169: Distributed Checksum Clearinghouse
 mail-filter/dkimpy-milter 1.2.2 1.2.3: Domain Keys Identified Mail (DKIM) signing/verifying milter for Postfix/Sendmail
 mail-filter/openarc 9999: Open source ARC implementation
