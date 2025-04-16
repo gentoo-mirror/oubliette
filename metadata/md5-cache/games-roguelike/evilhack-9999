@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=acct-group/gamestat sys-libs/ncurses:0= dev-debug/gdb
 SLOT=0
 _eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	e8de74bac929ba17427e740e95707d00	git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=8774b817203b0515ae10b2c260ad6e74
+_md5_=a9f36794ab5e17741a73050c9112c234
