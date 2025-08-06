@@ -24,6 +24,14 @@ net-analyzer/zeek:sendmail - Enables Zeek and ZeekControl to send mail
 net-analyzer/zeek:tcmalloc - Enable Google's performance analysis tools
 net-analyzer/zeek:tools - Auxiliary tools for Bro: adtrace, zeek-cut, rst
 net-analyzer/zeek:zeekctl - Enable ZeekControl, a tool for operating Zeek installations
+net-dns/unbound:dnscrypt - Enable DNSCrypt support
+net-dns/unbound:dnstap - Enable dnstap support
+net-dns/unbound:ecdsa - Enable ECDSA support
+net-dns/unbound:ecs - Enable EDNS client subnet support
+net-dns/unbound:gost - Enable GOST support
+net-dns/unbound:http2 - Enable HTTP/2 support for DoHnet-libs/nghttp2
+net-dns/unbound:redis - Enable cache db backend which usesdev-libs/hiredis
+net-dns/unbound:tfo - Enable TCP Fast Open client+server
 net-misc/dhcp-fwd:diet - compiles with diet libc
 net-misc/dhcp-fwd:logging - compiles with logging support
 net-misc/frr:fpm - Enable Forwarding Plane Manager support
