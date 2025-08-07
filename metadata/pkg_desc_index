@@ -25,7 +25,6 @@ dev-python/btest 0.72 1.0 1.1: BTest is a powerful framework for writing system 
 dev-python/pymilter 1.0.5-r1: Python interface to sendmail milter API
 dev-util/clippy 8.5.3 9.0.1: Standalone clippy tool built from FRR sources
 games-roguelike/evilhack 0.9.0 9999: NetHack 3.6 variant features GruntHack, SporkHack and others with custom content
-mail-filter/dcc 2.3.169: Distributed Checksum Clearinghouse
 mail-filter/dkimpy-milter 1.2.2 1.2.3: Domain Keys Identified Mail (DKIM) signing/verifying milter for Postfix/Sendmail
 mail-filter/openarc 9999: Open source ARC implementation
 mail-filter/opendmarc 1.4.2: Open source DMARC implementation
@@ -34,7 +33,6 @@ net-analyzer/smokeping 2.8.2: A powerful latency measurement tool
 net-analyzer/zeek 9999: The Zeek Network Security Monitor
 net-dns/unbound 1.23.1: A validating, recursive and caching DNS resolver
 net-misc/dhcp-fwd 0.11: Forwards DHCP messages between subnets with different sublayer broadcast domains
-net-misc/frr 8.5.3 9.0.1: The FRRouting Protocol Suite
 net-proxy/c-icap 0.5.9 9999: an implementation of an ICAP server written in C
 net-proxy/c-icap-modules 0.5.4 9999: an implementation of an ICAP server written in C
 net-proxy/squidclamav 7.1 7.2 9999: SquidClamAv is a dedicated ClamAV antivirus redirector for Squid

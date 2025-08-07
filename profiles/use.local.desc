@@ -9,7 +9,6 @@ dev-libs/caf:openssl - Use dev-libs/openssl to provide support communication ove
 dev-libs/caf:test - Builds the provided unit tests
 dev-libs/caf:tools - Builds caf-run and caf-vec tools
 dev-libs/libjwt:openssl - Use openssl libs for crypto functions
-mail-filter/dcc:rrdtool - Enable net-analyzer/rrdtool interface scripts
 mail-filter/opendmarc:reports - Install the reports binaries: expire, import, reports, params
 mail-filter/opendmarc:spf - Use the mail-filter/libspf2 for Sender Policy Framework checking
 net-analyzer/smokeping:dig - Install net-dns/bind-tools for dig functionality
@@ -34,12 +33,6 @@ net-dns/unbound:redis - Enable cache db backend which usesdev-libs/hiredis
 net-dns/unbound:tfo - Enable TCP Fast Open client+server
 net-misc/dhcp-fwd:diet - compiles with diet libc
 net-misc/dhcp-fwd:logging - compiles with logging support
-net-misc/frr:fpm - Enable Forwarding Plane Manager support
-net-misc/frr:grpc - Enable gRPC plugin
-net-misc/frr:nhrp - Build Next Hop Resolution Protocol daemon
-net-misc/frr:ospfapi - Build OSPFAPI support
-net-misc/frr:pam - Add support for PAM (via sys-libs/pam) to the Virtual Terminal Interface Shell (vtysh)
-net-misc/frr:rpki - Enable RPKI
 net-proxy/c-icap:logrotate - Install logrotate.d file
 www-misc/zoneminder:apache2 - Use www-servers/apache2 as web server (and user:group)
 www-misc/zoneminder:curl - Enable using net-misc/curl for streaming from cameras
